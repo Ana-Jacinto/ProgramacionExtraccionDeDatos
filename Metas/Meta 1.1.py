@@ -176,3 +176,5 @@ print("La moda es: ",estadistica.moda())
 # c)Dada la lista, muestra el histograma de la lista. Puedes reusar los métodos anteriores.
 print("Histograma:")
 estadistica.histograma()
+
+
