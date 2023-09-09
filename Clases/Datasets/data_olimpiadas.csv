@@ -1,0 +1,2053 @@
+,country,year,gender,gold,silver,bronze,total
+0,United States,1896,male,11,7,2,20
+1,Greece,1896,male,10,16,18,44
+2,France,1896,male,5,4,2,11
+3,Germany,1896,male,4,5,2,11
+4,Great Britain,1896,male,2,3,2,7
+5,Hungary,1896,male,2,1,3,6
+6,Austria,1896,male,2,1,2,5
+7,Australia,1896,male,2,0,0,2
+8,Denmark,1896,male,1,2,3,6
+9,Switzerland,1896,male,1,2,0,3
+10,France,1900,male,21,22,22,65
+11,United States,1900,male,18,13,12,43
+12,Great Britain,1900,male,8,6,7,21
+13,Belgium,1900,male,6,4,5,15
+14,Italy,1900,male,3,2,0,5
+15,Switzerland,1900,male,3,1,1,5
+16,Denmark,1900,male,1,3,2,6
+17,Hungary,1900,male,1,2,2,5
+18,Cuba,1900,male,1,1,0,2
+19,Germany,1900,male,1,1,0,2
+20,Austria,1900,male,0,3,3,6
+21,India,1900,male,0,2,0,2
+22,Norway,1900,male,0,1,3,4
+23,Bohemia,1900,male,0,1,0,1
+24,Australia,1900,male,0,0,3,3
+25,Netherlands,1900,male,0,0,1,1
+26,Sweden,1900,male,0,0,1,1
+27,United States,1904,male,647,566,481,1694
+28,Soviet Union,1904,male,259,213,199,671
+29,France,1904,male,151,159,171,481
+30,Italy,1904,male,149,115,143,407
+31,Great Britain,1904,male,141,149,161,451
+32,Sweden,1904,male,133,130,153,416
+33,Norway,1904,male,131,110,115,356
+34,Germany,1904,male,127,148,164,439
+35,Finland,1904,male,119,111,125,355
+36,Japan,1904,male,117,110,127,354
+37,Hungary,1904,male,100,97,101,298
+38,Russian Federation,1904,male,97,57,99,253
+39,People's Republic of China,1904,male,94,75,70,239
+40,Cuba,1904,male,67,42,53,162
+41,Switzerland,1904,male,65,69,63,197
+42,East Germany,1904,male,62,49,74,185
+43,Australia,1904,male,61,70,75,206
+44,Republic of Korea,1904,male,58,69,68,195
+45,Poland,1904,male,58,44,89,191
+46,Netherlands,1904,male,55,60,60,175
+47,Austria,1904,male,53,65,75,193
+48,Canada,1904,male,50,72,86,208
+49,Bulgaria,1904,male,40,59,52,151
+50,Türkiye,1904,male,39,23,30,92
+51,Czechoslovakia,1904,male,32,32,36,100
+52,Unified Team,1904,male,30,22,15,67
+53,Belgium,1904,male,29,34,38,101
+54,Greece,1904,male,28,32,31,91
+55,Kenya,1904,male,27,27,28,82
+56,West Germany,1904,male,26,40,42,108
+57,Islamic Republic of Iran,1904,male,24,23,28,75
+58,Romania,1904,male,23,34,56,113
+59,New Zealand,1904,male,23,8,31,62
+60,Ukraine,1904,male,19,19,28,66
+61,Spain,1904,male,18,27,22,67
+62,South Africa,1904,male,17,20,20,57
+63,Denmark,1904,male,16,42,36,94
+64,Brazil,1904,male,16,18,35,69
+65,Yugoslavia,1904,male,14,14,19,47
+66,Czechia,1904,male,13,15,15,43
+67,Ethiopia,1904,male,13,7,12,32
+68,Kazakhstan,1904,male,12,20,26,58
+69,Argentina,1904,male,11,16,13,40
+70,Jamaica,1904,male,11,12,7,30
+71,ROC,1904,male,11,11,25,47
+72,Georgia,1904,male,10,12,17,39
+73,Estonia,1904,male,10,9,14,33
+74,Democratic People's Republic of Korea,1904,male,10,8,16,34
+75,Uzbekistan,1904,male,10,6,19,35
+76,Mexico,1904,male,9,16,18,43
+77,Belarus,1904,male,7,19,24,50
+78,Egypt,1904,male,7,9,13,29
+79,Azerbaijan,1904,male,6,11,19,36
+80,Morocco,1904,male,6,4,10,20
+81,Ireland,1904,male,5,7,13,25
+82,Slovenia,1904,male,4,10,8,22
+83,Thailand,1904,male,4,5,7,16
+84,Tunisia,1904,male,4,3,5,12
+85,Latvia,1904,male,3,12,6,21
+86,Croatia,1904,male,3,10,6,19
+87,Slovakia,1904,male,3,9,5,17
+88,Algeria,1904,male,3,4,7,14
+89,Portugal,1904,male,3,4,5,12
+90,Uganda,1904,male,3,4,3,10
+91,Luxembourg,1904,male,3,4,0,7
+92,Lithuania,1904,male,3,3,5,11
+93,Dominican Republic,1904,male,3,3,2,8
+94,Mongolia,1904,male,2,9,13,24
+95,Armenia,1904,male,2,8,8,18
+96,India,1904,male,2,6,7,15
+97,Venezuela,1904,male,2,6,6,14
+98,Indonesia,1904,male,2,5,7,14
+99,Trinidad and Tobago,1904,male,2,4,9,15
+100,Qatar,1904,male,2,2,3,7
+101,Ecuador,1904,male,2,1,0,3
+102,Israel,1904,male,2,0,6,8
+103,Colombia,1904,male,1,8,8,17
+104,Chile,1904,male,1,5,3,9
+105,Chinese Taipei,1904,male,1,4,5,10
+106,Serbia,1904,male,1,2,4,7
+107,Vietnam,1904,male,1,2,1,4
+108,Peru,1904,male,1,2,0,3
+109,Grenada,1904,male,1,1,1,3
+110,Jordan,1904,male,1,1,1,3
+111,Tajikistan,1904,male,1,1,1,3
+112,Côte d'Ivoire,1904,male,1,1,0,2
+113,Singapore,1904,male,1,1,0,2
+114,Independent Olympic Athletes,1904,male,1,0,2,3
+115,Panama,1904,male,1,0,2,3
+116,The Bahamas,1904,male,1,0,2,3
+117,Suriname,1904,male,1,0,1,2
+118,United Arab Emirates,1904,male,1,0,1,2
+119,Burundi,1904,male,1,0,0,1
+120,"Hong Kong, China",1904,male,1,0,0,1
+121,Malaysia,1904,male,0,4,2,6
+122,Namibia,1904,male,0,4,0,4
+123,Philippines,1904,male,0,3,8,11
+124,Australasia,1904,male,0,3,5,8
+125,Nigeria,1904,male,0,3,4,7
+126,Puerto Rico,1904,male,0,2,6,8
+127,Kyrgyzstan,1904,male,0,2,3,5
+128,Lebanon,1904,male,0,2,2,4
+129,Uruguay,1904,male,0,2,2,4
+130,Kingdom of Saudi Arabia,1904,male,0,2,1,3
+131,United Republic of Tanzania,1904,male,0,2,0,2
+132,Republic of Moldova,1904,male,0,1,4,5
+133,Ghana,1904,male,0,1,3,4
+134,Liechtenstein,1904,male,0,1,3,4
+135,Syrian Arab Republic,1904,male,0,1,2,3
+136,Bohemia,1904,male,0,1,1,2
+137,Cameroon,1904,male,0,1,1,2
+138,Iceland,1904,male,0,1,1,2
+139,Niger,1904,male,0,1,1,2
+140,North Macedonia,1904,male,0,1,1,2
+141,United Arab Republic,1904,male,0,1,1,2
+142,Zambia,1904,male,0,1,1,2
+143,Botswana,1904,male,0,1,0,1
+144,Cyprus,1904,male,0,1,0,1
+145,Gabon,1904,male,0,1,0,1
+146,Guatemala,1904,male,0,1,0,1
+147,Haiti,1904,male,0,1,0,1
+148,Netherlands Antilles,1904,male,0,1,0,1
+149,Senegal,1904,male,0,1,0,1
+150,Sri Lanka,1904,male,0,1,0,1
+151,Sudan,1904,male,0,1,0,1
+152,Tonga,1904,male,0,1,0,1
+153,United States Virgin Islands,1904,male,0,1,0,1
+154,Kuwait,1904,male,0,0,3,3
+155,Afghanistan,1904,male,0,0,2,2
+156,Pakistan,1904,male,0,0,2,2
+157,Barbados,1904,male,0,0,1,1
+158,Bermuda,1904,male,0,0,1,1
+159,Burkina Faso,1904,male,0,0,1,1
+160,Djibouti,1904,male,0,0,1,1
+161,Eritrea,1904,male,0,0,1,1
+162,Guyana,1904,male,0,0,1,1
+163,Iraq,1904,male,0,0,1,1
+164,Mauritius,1904,male,0,0,1,1
+165,Monaco,1904,male,0,0,1,1
+166,San Marino,1904,male,0,0,1,1
+167,Togo,1904,male,0,0,1,1
+168,West Indies Federation,1904,male,0,0,1,1
+169,Great Britain,1908,male,30,31,25,86
+170,United States,1908,male,20,11,11,42
+171,Sweden,1908,male,6,3,8,17
+172,France,1908,male,2,5,5,12
+173,Hungary,1908,male,2,3,1,6
+174,Canada,1908,male,2,2,5,9
+175,Germany,1908,male,2,2,4,8
+176,Italy,1908,male,2,1,0,3
+177,Norway,1908,male,1,2,3,6
+178,Russian Federation,1908,male,1,2,0,3
+179,Finland,1908,male,1,1,2,4
+180,Belgium,1908,male,1,1,1,3
+181,South Africa,1908,male,1,1,0,2
+182,Greece,1908,male,0,3,1,4
+183,Australasia,1908,male,0,2,2,4
+184,Denmark,1908,male,0,1,3,4
+185,Austria,1908,male,0,0,1,1
+186,Bohemia,1908,male,0,0,1,1
+187,United States,1912,male,21,17,15,53
+188,Sweden,1912,male,11,14,14,39
+189,Finland,1912,male,9,5,6,20
+190,Germany,1912,male,4,10,4,18
+191,France,1912,male,4,3,1,8
+192,Italy,1912,male,4,1,2,7
+193,Canada,1912,male,3,2,3,8
+194,South Africa,1912,male,3,2,0,5
+195,Great Britain,1912,male,2,6,5,13
+196,Hungary,1912,male,2,1,3,6
+197,Belgium,1912,male,1,1,2,4
+198,Greece,1912,male,1,0,1,2
+199,Denmark,1912,male,0,2,2,4
+200,Australasia,1912,male,0,1,3,4
+201,Russian Federation,1912,male,0,1,2,3
+202,Norway,1912,male,0,1,1,2
+203,Austria,1912,male,0,0,1,1
+204,United States,1920,male,23,21,20,64
+205,Sweden,1920,male,13,14,15,42
+206,Finland,1920,male,13,9,7,29
+207,Belgium,1920,male,9,5,8,22
+208,Italy,1920,male,8,4,4,16
+209,France,1920,male,6,9,6,21
+210,Great Britain,1920,male,5,7,10,22
+211,Norway,1920,male,4,3,5,12
+212,South Africa,1920,male,3,1,2,6
+213,Canada,1920,male,2,3,3,8
+214,Switzerland,1920,male,1,2,3,6
+215,Estonia,1920,male,1,2,0,3
+216,Brazil,1920,male,1,1,0,2
+217,Netherlands,1920,male,1,0,2,3
+218,Denmark,1920,male,0,7,1,8
+219,Australia,1920,male,0,1,1,2
+220,Japan,1920,male,0,1,0,1
+221,Luxembourg,1920,male,0,1,0,1
+222,New Zealand,1920,male,0,0,1,1
+223,United States,1924,male,27,19,18,64
+224,Finland,1924,male,12,13,9,34
+225,France,1924,male,9,7,9,25
+226,Great Britain,1924,male,6,6,7,19
+227,Switzerland,1924,male,5,6,7,18
+228,Italy,1924,male,5,2,2,9
+229,Sweden,1924,male,3,10,6,19
+230,Belgium,1924,male,3,3,2,8
+231,Australia,1924,male,3,0,2,5
+232,Hungary,1924,male,2,2,3,7
+233,Norway,1924,male,2,1,3,6
+234,Netherlands,1924,male,2,1,1,4
+235,Yugoslavia,1924,male,2,0,0,2
+236,Czechoslovakia,1924,male,1,4,5,10
+237,Denmark,1924,male,1,4,2,7
+238,Estonia,1924,male,1,1,4,6
+239,South Africa,1924,male,1,1,1,3
+240,Luxembourg,1924,male,1,1,0,2
+241,Greece,1924,male,1,0,0,1
+242,Argentina,1924,male,0,3,2,5
+243,Austria,1924,male,0,3,1,4
+244,Ireland,1924,male,0,1,1,2
+245,Canada,1924,male,0,0,1,1
+246,Japan,1924,male,0,0,1,1
+247,Monaco,1924,male,0,0,1,1
+248,New Zealand,1924,male,0,0,1,1
+249,Poland,1924,male,0,0,1,1
+250,United States,1928,male,11,12,12,35
+251,Finland,1928,male,8,8,9,25
+252,Sweden,1928,male,7,5,6,18
+253,France,1928,male,6,9,5,20
+254,Germany,1928,male,5,7,13,25
+255,Switzerland,1928,male,5,5,4,14
+256,Netherlands,1928,male,4,4,3,11
+257,Hungary,1928,male,4,4,0,8
+258,Italy,1928,male,3,4,5,12
+259,Great Britain,1928,male,3,3,2,8
+260,Argentina,1928,male,3,2,0,5
+261,Austria,1928,male,3,0,0,3
+262,Czechoslovakia,1928,male,2,4,2,8
+263,Canada,1928,male,2,2,3,7
+264,Denmark,1928,male,2,1,4,7
+265,Egypt,1928,male,2,1,1,4
+266,Estonia,1928,male,2,1,1,4
+267,Japan,1928,male,2,0,1,3
+268,Australia,1928,male,1,2,1,4
+269,Yugoslavia,1928,male,1,1,2,4
+270,Poland,1928,male,1,0,1,2
+271,South Africa,1928,male,1,0,1,2
+272,Ireland,1928,male,1,0,0,1
+273,Luxembourg,1928,male,1,0,0,1
+274,New Zealand,1928,male,1,0,0,1
+275,Belgium,1928,male,0,1,1,2
+276,Norway,1928,male,0,1,1,2
+277,Chile,1928,male,0,1,0,1
+278,Haiti,1928,male,0,1,0,1
+279,Philippines,1928,male,0,0,1,1
+280,United States,1932,male,25,26,21,72
+281,Italy,1932,male,9,7,10,26
+282,Sweden,1932,male,9,4,7,20
+283,Japan,1932,male,6,5,4,15
+284,France,1932,male,6,4,3,13
+285,Finland,1932,male,5,8,11,24
+286,Hungary,1932,male,4,5,3,12
+287,Germany,1932,male,3,7,6,16
+288,Great Britain,1932,male,3,3,1,7
+289,Argentina,1932,male,3,1,0,4
+290,Canada,1932,male,2,2,4,8
+291,Netherlands,1932,male,2,2,1,5
+292,Australia,1932,male,2,0,1,3
+293,South Africa,1932,male,2,0,1,3
+294,Ireland,1932,male,2,0,0,2
+295,Poland,1932,male,2,0,0,2
+296,Czechoslovakia,1932,male,1,3,2,6
+297,Denmark,1932,male,0,4,1,5
+298,Mexico,1932,male,0,2,0,2
+299,Austria,1932,male,0,1,3,4
+300,Latvia,1932,male,0,1,0,1
+301,Switzerland,1932,male,0,1,0,1
+302,Philippines,1932,male,0,0,3,3
+303,Belgium,1932,male,0,0,1,1
+304,Spain,1932,male,0,0,1,1
+305,Uruguay,1932,male,0,0,1,1
+306,Germany,1936,male,22,21,21,64
+307,United States,1936,male,17,17,8,42
+308,Finland,1936,male,8,6,5,19
+309,Hungary,1936,male,6,1,3,10
+310,France,1936,male,5,4,2,11
+311,Sweden,1936,male,5,3,7,15
+312,Italy,1936,male,4,8,5,17
+313,Japan,1936,male,4,4,10,18
+314,Austria,1936,male,4,3,2,9
+315,Switzerland,1936,male,3,6,3,12
+316,Estonia,1936,male,2,2,3,7
+317,Netherlands,1936,male,2,1,3,6
+318,Egypt,1936,male,2,1,2,5
+319,Czechoslovakia,1936,male,1,4,1,6
+320,Great Britain,1936,male,1,3,1,5
+321,Argentina,1936,male,1,1,2,4
+322,Canada,1936,male,1,1,2,4
+323,Norway,1936,male,1,1,1,3
+324,Türkiye,1936,male,1,0,1,2
+325,New Zealand,1936,male,1,0,0,1
+326,Poland,1936,male,0,1,3,4
+327,Latvia,1936,male,0,1,1,2
+328,Romania,1936,male,0,1,0,1
+329,South Africa,1936,male,0,1,0,1
+330,Yugoslavia,1936,male,0,1,0,1
+331,Denmark,1936,male,0,0,2,2
+332,Australia,1936,male,0,0,1,1
+333,Belgium,1936,male,0,0,1,1
+334,Mexico,1936,male,0,0,1,1
+335,Philippines,1936,male,0,0,1,1
+336,United States,1948,male,23,21,13,57
+337,Sweden,1948,male,14,9,14,37
+338,Finland,1948,male,8,7,4,19
+339,Hungary,1948,male,7,2,9,18
+340,Italy,1948,male,6,5,8,19
+341,Türkiye,1948,male,6,4,2,12
+342,Switzerland,1948,male,5,8,6,19
+343,France,1948,male,5,4,8,17
+344,Czechoslovakia,1948,male,4,1,3,8
+345,Argentina,1948,male,3,1,1,5
+346,Australia,1948,male,2,4,2,8
+347,South Africa,1948,male,2,2,2,6
+348,Egypt,1948,male,2,2,1,5
+349,Great Britain,1948,male,1,7,3,11
+350,Denmark,1948,male,1,2,4,7
+351,Belgium,1948,male,1,2,2,5
+352,Austria,1948,male,1,2,1,4
+353,Jamaica,1948,male,1,2,0,3
+354,Mexico,1948,male,1,1,1,3
+355,Poland,1948,male,1,0,1,2
+356,Peru,1948,male,1,0,0,1
+357,Norway,1948,male,0,2,2,4
+358,Canada,1948,male,0,2,1,3
+359,Netherlands,1948,male,0,1,4,5
+360,Sri Lanka,1948,male,0,1,0,1
+361,Trinidad and Tobago,1948,male,0,1,0,1
+362,Uruguay,1948,male,0,1,0,1
+363,Yugoslavia,1948,male,0,1,0,1
+364,Panama,1948,male,0,0,2,2
+365,Republic of Korea,1948,male,0,0,2,2
+366,Islamic Republic of Iran,1948,male,0,0,1,1
+367,Puerto Rico,1948,male,0,0,1,1
+368,United States,1952,male,30,16,10,56
+369,Soviet Union,1952,male,15,16,12,43
+370,Sweden,1952,male,9,8,8,25
+371,Hungary,1952,male,6,6,7,19
+372,Czechoslovakia,1952,male,5,2,2,9
+373,Italy,1952,male,4,6,2,12
+374,France,1952,male,3,4,3,10
+375,Finland,1952,male,3,3,9,15
+376,Switzerland,1952,male,2,3,4,9
+377,Australia,1952,male,2,2,1,5
+378,Türkiye,1952,male,2,0,1,3
+379,Norway,1952,male,2,0,0,2
+380,Japan,1952,male,1,5,2,8
+381,Jamaica,1952,male,1,3,0,4
+382,Poland,1952,male,1,2,1,4
+383,Romania,1952,male,1,1,2,4
+384,Belgium,1952,male,1,1,0,2
+385,Canada,1952,male,1,1,0,2
+386,Brazil,1952,male,1,0,2,3
+387,Denmark,1952,male,1,0,1,2
+388,Luxembourg,1952,male,1,0,0,1
+389,Germany,1952,male,0,3,11,14
+390,Islamic Republic of Iran,1952,male,0,3,4,7
+391,Argentina,1952,male,0,2,2,4
+392,South Africa,1952,male,0,1,4,5
+393,Great Britain,1952,male,0,1,3,4
+394,Lebanon,1952,male,0,1,1,2
+395,Chile,1952,male,0,1,0,1
+396,Ireland,1952,male,0,1,0,1
+397,Mexico,1952,male,0,1,0,1
+398,Spain,1952,male,0,1,0,1
+399,Republic of Korea,1952,male,0,0,2,2
+400,Trinidad and Tobago,1952,male,0,0,2,2
+401,Bulgaria,1952,male,0,0,1,1
+402,Egypt,1952,male,0,0,1,1
+403,India,1952,male,0,0,1,1
+404,New Zealand,1952,male,0,0,1,1
+405,Venezuela,1952,male,0,0,1,1
+406,Soviet Union,1956,male,25,18,22,65
+407,United States,1956,male,21,15,13,49
+408,Japan,1956,male,4,9,5,18
+409,Italy,1956,male,4,5,7,16
+410,Australia,1956,male,4,4,6,14
+411,Romania,1956,male,4,2,3,9
+412,Sweden,1956,male,3,3,5,11
+413,Great Britain,1956,male,3,3,4,10
+414,Türkiye,1956,male,3,2,2,7
+415,Finland,1956,male,3,1,8,12
+416,France,1956,male,3,1,3,7
+417,Hungary,1956,male,2,6,3,11
+418,Germany,1956,male,2,4,1,7
+419,Islamic Republic of Iran,1956,male,2,2,1,5
+420,Bulgaria,1956,male,1,3,0,4
+421,Ireland,1956,male,1,1,3,5
+422,Norway,1956,male,1,0,2,3
+423,Canada,1956,male,1,0,1,2
+424,Mexico,1956,male,1,0,1,2
+425,Brazil,1956,male,1,0,0,1
+426,Denmark,1956,male,1,0,0,1
+427,New Zealand,1956,male,1,0,0,1
+428,Poland,1956,male,0,3,3,6
+429,Czechoslovakia,1956,male,0,2,1,3
+430,Belgium,1956,male,0,2,0,2
+431,Chile,1956,male,0,1,2,3
+432,Argentina,1956,male,0,1,1,2
+433,Republic of Korea,1956,male,0,1,1,2
+434,Iceland,1956,male,0,1,0,1
+435,Yugoslavia,1956,male,0,1,0,1
+436,South Africa,1956,male,0,0,3,3
+437,Greece,1956,male,0,0,1,1
+438,Soviet Union,1960,male,25,15,19,59
+439,United States,1960,male,20,17,12,49
+440,Italy,1960,male,8,7,6,21
+441,Türkiye,1960,male,7,2,0,9
+442,Australia,1960,male,6,4,4,14
+443,Hungary,1960,male,4,5,3,12
+444,Poland,1960,male,4,3,8,15
+445,Germany,1960,male,3,9,3,15
+446,Japan,1960,male,3,6,5,14
+447,Romania,1960,male,2,1,3,6
+448,New Zealand,1960,male,2,0,1,3
+449,Denmark,1960,male,2,0,0,2
+450,Bulgaria,1960,male,1,3,3,7
+451,Great Britain,1960,male,1,1,8,10
+452,Finland,1960,male,1,1,2,4
+453,Czechoslovakia,1960,male,1,0,2,3
+454,Austria,1960,male,1,0,0,1
+455,Ethiopia,1960,male,1,0,0,1
+456,Belgium,1960,male,0,2,2,4
+457,Switzerland,1960,male,0,2,1,3
+458,Islamic Republic of Iran,1960,male,0,1,3,4
+459,Sweden,1960,male,0,1,3,4
+460,France,1960,male,0,1,2,3
+461,South Africa,1960,male,0,1,2,3
+462,United Arab Republic,1960,male,0,1,1,2
+463,Chinese Taipei,1960,male,0,1,0,1
+464,Ghana,1960,male,0,1,0,1
+465,Morocco,1960,male,0,1,0,1
+466,Singapore,1960,male,0,1,0,1
+467,Yugoslavia,1960,male,0,1,0,1
+468,Argentina,1960,male,0,0,1,1
+469,Brazil,1960,male,0,0,1,1
+470,Iraq,1960,male,0,0,1,1
+471,Mexico,1960,male,0,0,1,1
+472,Netherlands,1960,male,0,0,1,1
+473,Pakistan,1960,male,0,0,1,1
+474,Venezuela,1960,male,0,0,1,1
+475,West Indies Federation,1960,male,0,0,1,1
+476,United States,1964,male,19,14,17,50
+477,Soviet Union,1964,male,15,22,22,59
+478,Japan,1964,male,14,5,5,24
+479,Italy,1964,male,8,5,5,18
+480,Poland,1964,male,6,1,7,14
+481,Hungary,1964,male,5,5,3,13
+482,Germany,1964,male,3,11,11,25
+483,Bulgaria,1964,male,3,5,2,10
+484,Australia,1964,male,3,0,4,7
+485,Finland,1964,male,3,0,2,5
+486,Great Britain,1964,male,2,7,1,10
+487,Czechoslovakia,1964,male,2,3,1,6
+488,Türkiye,1964,male,2,3,1,6
+489,Yugoslavia,1964,male,2,0,2,4
+490,Belgium,1964,male,2,0,1,3
+491,New Zealand,1964,male,2,0,1,3
+492,France,1964,male,1,3,3,7
+493,Sweden,1964,male,1,1,2,4
+494,Switzerland,1964,male,1,1,1,3
+495,Ethiopia,1964,male,1,0,0,1
+496,Netherlands,1964,male,1,0,0,1
+497,Romania,1964,male,0,3,3,6
+498,Canada,1964,male,0,2,1,3
+499,Republic of Korea,1964,male,0,2,1,3
+500,Denmark,1964,male,0,1,2,3
+501,Trinidad and Tobago,1964,male,0,1,1,2
+502,Tunisia,1964,male,0,1,1,2
+503,Argentina,1964,male,0,1,0,1
+504,Cuba,1964,male,0,1,0,1
+505,Philippines,1964,male,0,1,0,1
+506,Islamic Republic of Iran,1964,male,0,0,2,2
+507,Ghana,1964,male,0,0,1,1
+508,Ireland,1964,male,0,0,1,1
+509,Kenya,1964,male,0,0,1,1
+510,Mexico,1964,male,0,0,1,1
+511,Nigeria,1964,male,0,0,1,1
+512,Uruguay,1964,male,0,0,1,1
+513,United States,1968,male,22,18,23,63
+514,Soviet Union,1968,male,18,20,13,51
+515,Japan,1968,male,10,5,6,21
+516,Hungary,1968,male,6,5,6,17
+517,East Germany,1968,male,6,2,3,11
+518,Poland,1968,male,4,2,7,13
+519,France,1968,male,4,2,3,9
+520,Kenya,1968,male,3,3,2,8
+521,Great Britain,1968,male,3,2,2,7
+522,Mexico,1968,male,3,2,2,7
+523,Australia,1968,male,3,1,1,5
+524,Italy,1968,male,2,3,5,10
+525,Bulgaria,1968,male,2,3,3,8
+526,Islamic Republic of Iran,1968,male,2,1,2,5
+527,Türkiye,1968,male,2,0,0,2
+528,West Germany,1968,male,1,7,7,15
+529,Romania,1968,male,1,3,3,7
+530,Finland,1968,male,1,2,1,4
+531,Yugoslavia,1968,male,1,1,2,4
+532,Ethiopia,1968,male,1,1,0,2
+533,Czechoslovakia,1968,male,1,0,3,4
+534,Sweden,1968,male,1,0,1,2
+535,Tunisia,1968,male,1,0,1,2
+536,Netherlands,1968,male,1,0,0,1
+537,Venezuela,1968,male,1,0,0,1
+538,Denmark,1968,male,0,3,1,4
+539,Cuba,1968,male,0,2,0,2
+540,Mongolia,1968,male,0,1,3,4
+541,Brazil,1968,male,0,1,1,2
+542,Republic of Korea,1968,male,0,1,1,2
+543,Uganda,1968,male,0,1,1,2
+544,Austria,1968,male,0,1,0,1
+545,Belgium,1968,male,0,1,0,1
+546,Cameroon,1968,male,0,1,0,1
+547,Canada,1968,male,0,1,0,1
+548,Jamaica,1968,male,0,1,0,1
+549,Argentina,1968,male,0,0,2,2
+550,New Zealand,1968,male,0,0,2,2
+551,Switzerland,1968,male,0,0,2,2
+552,Greece,1968,male,0,0,1,1
+553,Soviet Union,1972,male,28,16,12,56
+554,United States,1972,male,18,21,21,60
+555,Japan,1972,male,10,7,8,25
+556,East Germany,1972,male,7,4,11,22
+557,Bulgaria,1972,male,6,8,2,16
+558,Hungary,1972,male,5,6,12,23
+559,Poland,1972,male,5,3,6,14
+560,West Germany,1972,male,4,5,7,16
+561,Sweden,1972,male,3,3,5,11
+562,Italy,1972,male,3,2,6,11
+563,Romania,1972,male,3,2,3,8
+564,Finland,1972,male,3,1,3,7
+565,Cuba,1972,male,3,1,1,5
+566,Netherlands,1972,male,3,0,0,3
+567,France,1972,male,2,3,4,9
+568,Czechoslovakia,1972,male,2,1,0,3
+569,Norway,1972,male,2,0,0,2
+570,Australia,1972,male,1,4,0,5
+571,Kenya,1972,male,1,3,4,8
+572,Great Britain,1972,male,1,2,8,11
+573,Democratic People's Republic of Korea,1972,male,1,1,2,4
+574,Yugoslavia,1972,male,1,1,2,4
+575,Uganda,1972,male,1,1,0,2
+576,Denmark,1972,male,1,0,0,1
+577,Islamic Republic of Iran,1972,male,0,2,1,3
+578,Belgium,1972,male,0,2,0,2
+579,Greece,1972,male,0,2,0,2
+580,Colombia,1972,male,0,1,2,3
+581,Austria,1972,male,0,1,1,2
+582,Argentina,1972,male,0,1,0,1
+583,Canada,1972,male,0,1,0,1
+584,Lebanon,1972,male,0,1,0,1
+585,Mexico,1972,male,0,1,0,1
+586,Mongolia,1972,male,0,1,0,1
+587,Republic of Korea,1972,male,0,1,0,1
+588,Switzerland,1972,male,0,1,0,1
+589,Tunisia,1972,male,0,1,0,1
+590,Türkiye,1972,male,0,1,0,1
+591,Brazil,1972,male,0,0,2,2
+592,Ethiopia,1972,male,0,0,2,2
+593,Ghana,1972,male,0,0,1,1
+594,Jamaica,1972,male,0,0,1,1
+595,New Zealand,1972,male,0,0,1,1
+596,Niger,1972,male,0,0,1,1
+597,Nigeria,1972,male,0,0,1,1
+598,Spain,1972,male,0,0,1,1
+599,Soviet Union,1976,male,30,20,19,69
+600,United States,1976,male,25,23,17,65
+601,East Germany,1976,male,8,7,12,27
+602,Japan,1976,male,7,6,10,23
+603,Cuba,1976,male,6,4,2,12
+604,Poland,1976,male,5,2,12,19
+605,West Germany,1976,male,4,6,10,20
+606,Finland,1976,male,4,2,0,6
+607,Bulgaria,1976,male,3,6,5,14
+608,Hungary,1976,male,2,4,5,11
+609,Italy,1976,male,2,2,4,8
+610,Yugoslavia,1976,male,2,2,3,7
+611,Czechoslovakia,1976,male,2,1,1,4
+612,Sweden,1976,male,2,0,0,2
+613,Romania,1976,male,1,5,9,15
+614,France,1976,male,1,2,3,6
+615,Great Britain,1976,male,1,2,3,6
+616,Republic of Korea,1976,male,1,1,3,5
+617,Democratic People's Republic of Korea,1976,male,1,1,0,2
+618,Jamaica,1976,male,1,1,0,2
+619,New Zealand,1976,male,1,1,0,2
+620,Mexico,1976,male,1,0,1,2
+621,Trinidad and Tobago,1976,male,1,0,0,1
+622,Belgium,1976,male,0,3,2,5
+623,Canada,1976,male,0,3,0,3
+624,Netherlands,1976,male,0,2,0,2
+625,Portugal,1976,male,0,2,0,2
+626,Islamic Republic of Iran,1976,male,0,1,1,2
+627,Mongolia,1976,male,0,1,0,1
+628,Venezuela,1976,male,0,1,0,1
+629,Australia,1976,male,0,0,2,2
+630,Austria,1976,male,0,0,1,1
+631,Bermuda,1976,male,0,0,1,1
+632,Brazil,1976,male,0,0,1,1
+633,Denmark,1976,male,0,0,1,1
+634,Puerto Rico,1976,male,0,0,1,1
+635,Switzerland,1976,male,0,0,1,1
+636,Thailand,1976,male,0,0,1,1
+637,Soviet Union,1980,male,46,44,26,116
+638,East Germany,1980,male,14,11,23,48
+639,Bulgaria,1980,male,8,10,11,29
+640,Cuba,1980,male,7,7,5,19
+641,Italy,1980,male,7,0,2,9
+642,Hungary,1980,male,6,7,9,22
+643,Great Britain,1980,male,5,4,4,13
+644,Poland,1980,male,3,9,10,22
+645,Sweden,1980,male,3,2,4,9
+646,Finland,1980,male,3,1,2,6
+647,France,1980,male,2,5,2,9
+648,Romania,1980,male,2,1,6,9
+649,Ethiopia,1980,male,2,0,2,4
+650,Switzerland,1980,male,2,0,0,2
+651,Czechoslovakia,1980,male,1,1,6,8
+652,Yugoslavia,1980,male,1,0,2,3
+653,Denmark,1980,male,1,0,1,2
+654,Greece,1980,male,1,0,1,2
+655,Belgium,1980,male,1,0,0,1
+656,Democratic People's Republic of Korea,1980,male,0,3,2,5
+657,Australia,1980,male,0,2,4,6
+658,Mongolia,1980,male,0,2,2,4
+659,United Republic of Tanzania,1980,male,0,2,0,2
+660,Austria,1980,male,0,1,1,2
+661,Mexico,1980,male,0,1,1,2
+662,Netherlands,1980,male,0,1,1,2
+663,Spain,1980,male,0,1,1,2
+664,Uganda,1980,male,0,1,0,1
+665,Venezuela,1980,male,0,1,0,1
+666,Jamaica,1980,male,0,0,2,2
+667,Brazil,1980,male,0,0,1,1
+668,Guyana,1980,male,0,0,1,1
+669,Ireland,1980,male,0,0,1,1
+670,Lebanon,1980,male,0,0,1,1
+671,United States,1984,male,42,28,19,89
+672,West Germany,1984,male,11,9,9,29
+673,Japan,1984,male,10,8,10,28
+674,People's Republic of China,1984,male,10,6,5,21
+675,Italy,1984,male,8,4,8,20
+676,Republic of Korea,1984,male,5,4,6,15
+677,Canada,1984,male,4,8,8,20
+678,Romania,1984,male,4,7,8,19
+679,France,1984,male,4,4,8,16
+680,Finland,1984,male,4,1,6,11
+681,New Zealand,1984,male,4,1,1,6
+682,Great Britain,1984,male,3,5,11,19
+683,Yugoslavia,1984,male,3,3,4,10
+684,Australia,1984,male,2,4,4,10
+685,Mexico,1984,male,2,3,1,6
+686,Brazil,1984,male,1,2,2,5
+687,Austria,1984,male,1,1,1,3
+688,Kenya,1984,male,1,0,2,3
+689,Netherlands,1984,male,1,0,1,2
+690,Portugal,1984,male,1,0,1,2
+691,Belgium,1984,male,1,0,0,1
+692,Morocco,1984,male,1,0,0,1
+693,Sweden,1984,male,0,8,4,12
+694,Switzerland,1984,male,0,2,3,5
+695,Denmark,1984,male,0,2,1,3
+696,Greece,1984,male,0,1,1,2
+697,Puerto Rico,1984,male,0,1,1,2
+698,Colombia,1984,male,0,1,0,1
+699,Côte d'Ivoire,1984,male,0,1,0,1
+700,Egypt,1984,male,0,1,0,1
+701,Ireland,1984,male,0,1,0,1
+702,Nigeria,1984,male,0,1,0,1
+703,Peru,1984,male,0,1,0,1
+704,Syrian Arab Republic,1984,male,0,1,0,1
+705,Thailand,1984,male,0,1,0,1
+706,Türkiye,1984,male,0,0,3,3
+707,Venezuela,1984,male,0,0,3,3
+708,Algeria,1984,male,0,0,2,2
+709,Cameroon,1984,male,0,0,1,1
+710,Chinese Taipei,1984,male,0,0,1,1
+711,Dominican Republic,1984,male,0,0,1,1
+712,Iceland,1984,male,0,0,1,1
+713,Norway,1984,male,0,0,1,1
+714,Spain,1984,male,0,0,1,1
+715,Zambia,1984,male,0,0,1,1
+716,Soviet Union,1988,male,33,17,26,76
+717,United States,1988,male,17,18,14,49
+718,East Germany,1988,male,13,14,12,39
+719,Republic of Korea,1988,male,7,7,9,23
+720,Bulgaria,1988,male,7,6,6,19
+721,Hungary,1988,male,7,4,3,14
+722,Kenya,1988,male,5,2,2,9
+723,Japan,1988,male,4,2,4,10
+724,Italy,1988,male,4,2,3,9
+725,France,1988,male,3,3,2,8
+726,Czechoslovakia,1988,male,3,2,1,6
+727,West Germany,1988,male,2,8,8,18
+728,Great Britain,1988,male,2,6,4,12
+729,Poland,1988,male,2,3,7,12
+730,Romania,1988,male,2,2,1,5
+731,New Zealand,1988,male,2,0,5,7
+732,Norway,1988,male,2,0,0,2
+733,Australia,1988,male,1,5,1,7
+734,People's Republic of China,1988,male,1,4,7,12
+735,Canada,1988,male,1,1,2,4
+736,Finland,1988,male,1,1,2,4
+737,Brazil,1988,male,1,1,1,3
+738,Yugoslavia,1988,male,1,1,1,3
+739,Denmark,1988,male,1,1,0,2
+740,Türkiye,1988,male,1,1,0,2
+741,Morocco,1988,male,1,0,2,3
+742,Spain,1988,male,1,0,2,3
+743,Austria,1988,male,1,0,0,1
+744,Suriname,1988,male,1,0,0,1
+745,Sweden,1988,male,0,3,5,8
+746,Netherlands,1988,male,0,1,2,3
+747,Chile,1988,male,0,1,0,1
+748,Islamic Republic of Iran,1988,male,0,1,0,1
+749,Netherlands Antilles,1988,male,0,1,0,1
+750,Senegal,1988,male,0,1,0,1
+751,United States Virgin Islands,1988,male,0,1,0,1
+752,Belgium,1988,male,0,0,2,2
+753,Mexico,1988,male,0,0,2,2
+754,Colombia,1988,male,0,0,1,1
+755,Djibouti,1988,male,0,0,1,1
+756,Greece,1988,male,0,0,1,1
+757,Mongolia,1988,male,0,0,1,1
+758,Pakistan,1988,male,0,0,1,1
+759,Philippines,1988,male,0,0,1,1
+760,Switzerland,1988,male,0,0,1,1
+761,Thailand,1988,male,0,0,1,1
+762,Unified Team,1992,male,28,22,15,65
+763,United States,1992,male,16,18,15,49
+764,Germany,1992,male,10,7,14,31
+765,Cuba,1992,male,10,3,6,19
+766,Hungary,1992,male,6,6,6,18
+767,Republic of Korea,1992,male,5,3,7,15
+768,Spain,1992,male,5,3,1,9
+769,France,1992,male,4,4,7,15
+770,Czechoslovakia,1992,male,4,1,1,6
+771,Democratic People's Republic of Korea,1992,male,4,0,3,7
+772,People's Republic of China,1992,male,3,6,7,16
+773,Australia,1992,male,3,4,3,10
+774,Bulgaria,1992,male,3,4,3,10
+775,Italy,1992,male,3,2,5,10
+776,Japan,1992,male,2,4,5,11
+777,Poland,1992,male,2,4,5,11
+778,Kenya,1992,male,2,4,2,8
+779,Canada,1992,male,2,3,3,8
+780,Great Britain,1992,male,2,2,5,9
+781,Türkiye,1992,male,2,2,1,5
+782,Sweden,1992,male,1,3,3,7
+783,Norway,1992,male,1,2,1,4
+784,Finland,1992,male,1,1,2,4
+785,Indonesia,1992,male,1,1,1,3
+786,Morocco,1992,male,1,1,1,3
+787,Brazil,1992,male,1,1,0,2
+788,Ireland,1992,male,1,1,0,2
+789,Greece,1992,male,1,0,0,1
+790,Lithuania,1992,male,1,0,0,1
+791,Switzerland,1992,male,1,0,0,1
+792,Netherlands,1992,male,0,4,2,6
+793,Latvia,1992,male,0,2,1,3
+794,Namibia,1992,male,0,2,0,2
+795,Nigeria,1992,male,0,2,0,2
+796,New Zealand,1992,male,0,1,4,5
+797,Islamic Republic of Iran,1992,male,0,1,2,3
+798,Jamaica,1992,male,0,1,0,1
+799,Mexico,1992,male,0,1,0,1
+800,Peru,1992,male,0,1,0,1
+801,Romania,1992,male,0,0,4,4
+802,Denmark,1992,male,0,0,2,2
+803,Ethiopia,1992,male,0,0,2,2
+804,Algeria,1992,male,0,0,1,1
+805,Belgium,1992,male,0,0,1,1
+806,Croatia,1992,male,0,0,1,1
+807,Independent Olympic Athletes,1992,male,0,0,1,1
+808,Israel,1992,male,0,0,1,1
+809,Mongolia,1992,male,0,0,1,1
+810,Philippines,1992,male,0,0,1,1
+811,Puerto Rico,1992,male,0,0,1,1
+812,Qatar,1992,male,0,0,1,1
+813,Suriname,1992,male,0,0,1,1
+814,Thailand,1992,male,0,0,1,1
+815,The Bahamas,1992,male,0,0,1,1
+816,United States,1996,male,18,17,11,46
+817,Russian Federation,1996,male,17,8,10,35
+818,Germany,1996,male,8,6,15,29
+819,Italy,1996,male,7,3,4,14
+820,People's Republic of China,1996,male,6,7,5,18
+821,Cuba,1996,male,6,6,4,16
+822,Poland,1996,male,6,3,3,12
+823,France,1996,male,5,3,7,15
+824,Greece,1996,male,4,3,0,7
+825,Hungary,1996,male,4,2,5,11
+826,Türkiye,1996,male,4,1,1,6
+827,Ukraine,1996,male,4,0,7,11
+828,Kazakhstan,1996,male,3,4,4,11
+829,Australia,1996,male,3,2,7,12
+830,Switzerland,1996,male,3,2,0,5
+831,Czechia,1996,male,3,1,2,6
+832,New Zealand,1996,male,3,0,0,3
+833,Republic of Korea,1996,male,2,8,2,12
+834,Bulgaria,1996,male,2,5,3,10
+835,Japan,1996,male,2,2,2,6
+836,Norway,1996,male,2,1,1,4
+837,Algeria,1996,male,2,0,1,3
+838,Canada,1996,male,1,4,3,8
+839,Spain,1996,male,1,4,2,7
+840,Kenya,1996,male,1,3,3,7
+841,Brazil,1996,male,1,1,4,6
+842,Democratic People's Republic of Korea,1996,male,1,1,2,4
+843,Belgium,1996,male,1,1,1,3
+844,Islamic Republic of Iran,1996,male,1,1,1,3
+845,Slovakia,1996,male,1,1,1,3
+846,Armenia,1996,male,1,1,0,2
+847,Denmark,1996,male,1,1,0,2
+848,South Africa,1996,male,1,1,0,2
+849,Netherlands,1996,male,1,0,3,4
+850,Thailand,1996,male,1,0,1,2
+851,Burundi,1996,male,1,0,0,1
+852,Ecuador,1996,male,1,0,0,1
+853,Ethiopia,1996,male,1,0,0,1
+854,Belarus,1996,male,0,5,6,11
+855,Great Britain,1996,male,0,5,4,9
+856,Romania,1996,male,0,2,3,5
+857,Finland,1996,male,0,2,1,3
+858,Namibia,1996,male,0,2,0,2
+859,Argentina,1996,male,0,1,1,2
+860,Austria,1996,male,0,1,1,2
+861,Sweden,1996,male,0,1,1,2
+862,Uzbekistan,1996,male,0,1,1,2
+863,Azerbaijan,1996,male,0,1,0,1
+864,Jamaica,1996,male,0,1,0,1
+865,Latvia,1996,male,0,1,0,1
+866,Philippines,1996,male,0,1,0,1
+867,Slovenia,1996,male,0,1,0,1
+868,Tonga,1996,male,0,1,0,1
+869,Zambia,1996,male,0,1,0,1
+870,Georgia,1996,male,0,0,2,2
+871,Morocco,1996,male,0,0,2,2
+872,Trinidad and Tobago,1996,male,0,0,2,2
+873,India,1996,male,0,0,1,1
+874,Israel,1996,male,0,0,1,1
+875,Malaysia,1996,male,0,0,1,1
+876,Mexico,1996,male,0,0,1,1
+877,Mongolia,1996,male,0,0,1,1
+878,Nigeria,1996,male,0,0,1,1
+879,Puerto Rico,1996,male,0,0,1,1
+880,Republic of Moldova,1996,male,0,0,1,1
+881,Tunisia,1996,male,0,0,1,1
+882,Uganda,1996,male,0,0,1,1
+883,Russian Federation,2000,male,17,10,19,46
+884,United States,2000,male,15,13,13,41
+885,Cuba,2000,male,8,6,4,18
+886,People's Republic of China,2000,male,8,4,5,17
+887,France,2000,male,6,6,5,17
+888,Great Britain,2000,male,6,4,1,11
+889,Germany,2000,male,5,10,8,23
+890,Australia,2000,male,4,10,6,20
+891,Italy,2000,male,4,3,6,13
+892,Greece,2000,male,4,3,1,8
+893,Netherlands,2000,male,4,1,2,7
+894,Republic of Korea,2000,male,3,6,3,12
+895,Bulgaria,2000,male,3,5,2,10
+896,Japan,2000,male,3,2,0,5
+897,Poland,2000,male,3,1,1,5
+898,Sweden,2000,male,3,1,1,5
+899,Ethiopia,2000,male,3,0,2,5
+900,Islamic Republic of Iran,2000,male,3,0,1,4
+901,Türkiye,2000,male,3,0,1,4
+902,Kazakhstan,2000,male,2,4,0,6
+903,Kenya,2000,male,2,3,1,6
+904,Hungary,2000,male,2,2,1,5
+905,Spain,2000,male,2,2,0,4
+906,Canada,2000,male,2,1,3,6
+907,Romania,2000,male,2,1,2,5
+908,Norway,2000,male,2,0,1,3
+909,Ukraine,2000,male,1,5,6,12
+910,Czechia,2000,male,1,3,2,6
+911,Uzbekistan,2000,male,1,1,2,4
+912,Finland,2000,male,1,1,1,3
+913,Latvia,2000,male,1,1,1,3
+914,Estonia,2000,male,1,0,2,3
+915,New Zealand,2000,male,1,0,2,3
+916,Azerbaijan,2000,male,1,0,1,2
+917,Thailand,2000,male,1,0,1,2
+918,Austria,2000,male,1,0,0,1
+919,Croatia,2000,male,1,0,0,1
+920,Lithuania,2000,male,1,0,0,1
+921,Slovenia,2000,male,1,0,0,1
+922,Brazil,2000,male,0,3,0,3
+923,Mexico,2000,male,0,2,3,5
+924,Switzerland,2000,male,0,2,1,3
+925,Denmark,2000,male,0,2,0,2
+926,Belarus,2000,male,0,1,8,9
+927,Algeria,2000,male,0,1,3,4
+928,Morocco,2000,male,0,1,3,4
+929,South Africa,2000,male,0,1,2,3
+930,Kingdom of Saudi Arabia,2000,male,0,1,1,2
+931,Republic of Moldova,2000,male,0,1,1,2
+932,Slovakia,2000,male,0,1,1,2
+933,Trinidad and Tobago,2000,male,0,1,1,2
+934,Argentina,2000,male,0,1,0,1
+935,Belgium,2000,male,0,1,0,1
+936,Indonesia,2000,male,0,1,0,1
+937,Uruguay,2000,male,0,1,0,1
+938,Georgia,2000,male,0,0,6,6
+939,Democratic People's Republic of Korea,2000,male,0,0,2,2
+940,Armenia,2000,male,0,0,1,1
+941,Barbados,2000,male,0,0,1,1
+942,Chinese Taipei,2000,male,0,0,1,1
+943,Israel,2000,male,0,0,1,1
+944,Jamaica,2000,male,0,0,1,1
+945,Kuwait,2000,male,0,0,1,1
+946,Kyrgyzstan,2000,male,0,0,1,1
+947,North Macedonia,2000,male,0,0,1,1
+948,Portugal,2000,male,0,0,1,1
+949,Qatar,2000,male,0,0,1,1
+950,United States,2004,male,18,20,9,47
+951,Russian Federation,2004,male,15,9,19,43
+952,People's Republic of China,2004,male,9,5,5,19
+953,Italy,2004,male,7,2,4,13
+954,Japan,2004,male,6,4,5,15
+955,Cuba,2004,male,6,3,5,14
+956,Australia,2004,male,5,4,6,15
+957,Republic of Korea,2004,male,4,6,5,15
+958,France,2004,male,4,2,4,10
+959,Great Britain,2004,male,4,2,4,10
+960,Germany,2004,male,3,2,9,14
+961,Ukraine,2004,male,3,2,2,7
+962,Norway,2004,male,3,0,0,3
+963,Spain,2004,male,2,6,3,11
+964,Türkiye,2004,male,2,3,4,9
+965,Greece,2004,male,2,2,2,6
+966,Islamic Republic of Iran,2004,male,2,2,2,6
+967,Georgia,2004,male,2,2,0,4
+968,Uzbekistan,2004,male,2,1,2,5
+969,Canada,2004,male,2,1,1,4
+970,Sweden,2004,male,2,1,0,3
+971,Brazil,2004,male,2,0,3,5
+972,Morocco,2004,male,2,0,0,2
+973,Kazakhstan,2004,male,1,4,3,8
+974,Belarus,2004,male,1,3,2,6
+975,Hungary,2004,male,1,3,2,6
+976,Netherlands,2004,male,1,2,3,6
+977,Kenya,2004,male,1,2,2,5
+978,Ethiopia,2004,male,1,2,0,3
+979,New Zealand,2004,male,1,2,0,3
+980,Bulgaria,2004,male,1,1,6,8
+981,Egypt,2004,male,1,1,3,5
+982,Thailand,2004,male,1,1,1,3
+983,Chinese Taipei,2004,male,1,1,0,2
+984,Lithuania,2004,male,1,1,0,2
+985,Azerbaijan,2004,male,1,0,2,3
+986,Czechia,2004,male,1,0,2,3
+987,Chile,2004,male,1,0,1,2
+988,Indonesia,2004,male,1,0,1,2
+989,Israel,2004,male,1,0,1,2
+990,Poland,2004,male,1,0,1,2
+991,Switzerland,2004,male,1,0,1,2
+992,Dominican Republic,2004,male,1,0,0,1
+993,United Arab Emirates,2004,male,1,0,0,1
+994,Romania,2004,male,0,3,3,6
+995,Austria,2004,male,0,3,1,4
+996,Latvia,2004,male,0,3,0,3
+997,Portugal,2004,male,0,2,1,3
+998,Slovakia,2004,male,0,2,1,3
+999,South Africa,2004,male,0,2,1,3
+1000,Finland,2004,male,0,2,0,2
+1001,Estonia,2004,male,0,1,2,3
+1002,Croatia,2004,male,0,1,1,2
+1003,Democratic People's Republic of Korea,2004,male,0,1,1,2
+1004,Denmark,2004,male,0,1,1,2
+1005,India,2004,male,0,1,0,1
+1006,Jamaica,2004,male,0,1,0,1
+1007,Mexico,2004,male,0,1,0,1
+1008,Belgium,2004,male,0,0,1,1
+1009,Eritrea,2004,male,0,0,1,1
+1010,Mongolia,2004,male,0,0,1,1
+1011,Slovenia,2004,male,0,0,1,1
+1012,Syrian Arab Republic,2004,male,0,0,1,1
+1013,Trinidad and Tobago,2004,male,0,0,1,1
+1014,Venezuela,2004,male,0,0,1,1
+1015,People's Republic of China,2008,male,19,9,8,36
+1016,United States,2008,male,13,12,17,42
+1017,Russian Federation,2008,male,13,3,14,30
+1018,Great Britain,2008,male,7,6,6,19
+1019,Republic of Korea,2008,male,6,6,2,14
+1020,Germany,2008,male,6,3,3,12
+1021,Italy,2008,male,4,4,3,11
+1022,Japan,2008,male,4,4,2,10
+1023,Ukraine,2008,male,4,2,6,12
+1024,Kenya,2008,male,4,1,4,9
+1025,France,2008,male,3,12,12,27
+1026,Australia,2008,male,3,4,6,13
+1027,Spain,2008,male,3,3,1,7
+1028,Georgia,2008,male,3,2,1,6
+1029,Poland,2008,male,3,1,1,5
+1030,Cuba,2008,male,2,4,13,19
+1031,Norway,2008,male,2,3,0,5
+1032,Ethiopia,2008,male,2,1,1,4
+1033,Mongolia,2008,male,2,1,0,3
+1034,Jamaica,2008,male,2,0,0,2
+1035,Canada,2008,male,1,4,3,8
+1036,Hungary,2008,male,1,4,0,5
+1037,Belarus,2008,male,1,3,2,6
+1038,Kazakhstan,2008,male,1,2,3,6
+1039,New Zealand,2008,male,1,2,2,5
+1040,Azerbaijan,2008,male,1,1,3,5
+1041,Switzerland,2008,male,1,1,2,4
+1042,Czechia,2008,male,1,1,1,3
+1043,Latvia,2008,male,1,1,1,3
+1044,Slovenia,2008,male,1,1,1,3
+1045,Dominican Republic,2008,male,1,1,0,2
+1046,Slovakia,2008,male,1,1,0,2
+1047,Thailand,2008,male,1,1,0,2
+1048,Brazil,2008,male,1,0,3,4
+1049,Türkiye,2008,male,1,0,3,4
+1050,India,2008,male,1,0,2,3
+1051,Netherlands,2008,male,1,0,2,3
+1052,Islamic Republic of Iran,2008,male,1,0,1,2
+1053,Estonia,2008,male,1,0,0,1
+1054,Mexico,2008,male,1,0,0,1
+1055,Panama,2008,male,1,0,0,1
+1056,Portugal,2008,male,1,0,0,1
+1057,Tunisia,2008,male,1,0,0,1
+1058,Lithuania,2008,male,0,2,2,4
+1059,Sweden,2008,male,0,2,0,2
+1060,Armenia,2008,male,0,1,4,5
+1061,Ireland,2008,male,0,1,2,3
+1062,Kyrgyzstan,2008,male,0,1,2,3
+1063,Uzbekistan,2008,male,0,1,2,3
+1064,Serbia,2008,male,0,1,1,2
+1065,Tajikistan,2008,male,0,1,1,2
+1066,Algeria,2008,male,0,1,0,1
+1067,Austria,2008,male,0,1,0,1
+1068,Chile,2008,male,0,1,0,1
+1069,Colombia,2008,male,0,1,0,1
+1070,Croatia,2008,male,0,1,0,1
+1071,Ecuador,2008,male,0,1,0,1
+1072,Greece,2008,male,0,1,0,1
+1073,Malaysia,2008,male,0,1,0,1
+1074,Morocco,2008,male,0,1,0,1
+1075,South Africa,2008,male,0,1,0,1
+1076,Sudan,2008,male,0,1,0,1
+1077,Trinidad and Tobago,2008,male,0,1,0,1
+1078,Vietnam,2008,male,0,1,0,1
+1079,Bulgaria,2008,male,0,0,3,3
+1080,Chinese Taipei,2008,male,0,0,2,2
+1081,Finland,2008,male,0,0,2,2
+1082,Indonesia,2008,male,0,0,2,2
+1083,Romania,2008,male,0,0,2,2
+1084,Afghanistan,2008,male,0,0,1,1
+1085,Democratic People's Republic of Korea,2008,male,0,0,1,1
+1086,Egypt,2008,male,0,0,1,1
+1087,Israel,2008,male,0,0,1,1
+1088,Mauritius,2008,male,0,0,1,1
+1089,Nigeria,2008,male,0,0,1,1
+1090,Republic of Moldova,2008,male,0,0,1,1
+1091,The Bahamas,2008,male,0,0,1,1
+1092,Togo,2008,male,0,0,1,1
+1093,United States,2012,male,14,10,11,35
+1094,Great Britain,2012,male,13,5,8,26
+1095,People's Republic of China,2012,male,12,9,9,30
+1096,Russian Federation,2012,male,9,7,11,27
+1097,Republic of Korea,2012,male,7,7,3,17
+1098,Islamic Republic of Iran,2012,male,7,5,1,13
+1099,France,2012,male,5,3,4,12
+1100,Hungary,2012,male,4,2,4,10
+1101,Cuba,2012,male,4,1,6,11
+1102,Germany,2012,male,3,10,6,19
+1103,Italy,2012,male,3,6,5,14
+1104,Japan,2012,male,3,5,10,18
+1105,Ukraine,2012,male,3,2,3,8
+1106,Australia,2012,male,2,4,1,7
+1107,Jamaica,2012,male,2,2,2,6
+1108,Czechia,2012,male,2,2,1,5
+1109,Azerbaijan,2012,male,2,1,4,7
+1110,Kazakhstan,2012,male,2,1,4,7
+1111,Kenya,2012,male,2,1,4,7
+1112,Poland,2012,male,2,1,3,6
+1113,Netherlands,2012,male,2,1,2,5
+1114,South Africa,2012,male,2,1,0,3
+1115,Democratic People's Republic of Korea,2012,male,2,0,2,4
+1116,Spain,2012,male,1,4,1,6
+1117,Brazil,2012,male,1,2,4,7
+1118,Georgia,2012,male,1,2,3,6
+1119,Denmark,2012,male,1,2,0,3
+1120,Switzerland,2012,male,1,2,0,3
+1121,Norway,2012,male,1,1,1,3
+1122,Dominican Republic,2012,male,1,1,0,2
+1123,Argentina,2012,male,1,0,1,2
+1124,New Zealand,2012,male,1,0,1,2
+1125,Trinidad and Tobago,2012,male,1,0,1,2
+1126,Tunisia,2012,male,1,0,1,2
+1127,Türkiye,2012,male,1,0,1,2
+1128,Algeria,2012,male,1,0,0,1
+1129,Belarus,2012,male,1,0,0,1
+1130,Croatia,2012,male,1,0,0,1
+1131,Grenada,2012,male,1,0,0,1
+1132,Latvia,2012,male,1,0,0,1
+1133,Romania,2012,male,1,0,0,1
+1134,Uganda,2012,male,1,0,0,1
+1135,Venezuela,2012,male,1,0,0,1
+1136,Canada,2012,male,0,3,5,8
+1137,Colombia,2012,male,0,2,2,4
+1138,India,2012,male,0,2,2,4
+1139,Mongolia,2012,male,0,2,2,4
+1140,Egypt,2012,male,0,2,1,3
+1141,Ireland,2012,male,0,1,4,5
+1142,Sweden,2012,male,0,1,3,4
+1143,Armenia,2012,male,0,1,1,2
+1144,Estonia,2012,male,0,1,1,2
+1145,Ethiopia,2012,male,0,1,1,2
+1146,Indonesia,2012,male,0,1,1,2
+1147,Puerto Rico,2012,male,0,1,1,2
+1148,Qatar,2012,male,0,1,1,2
+1149,Slovenia,2012,male,0,1,1,2
+1150,Belgium,2012,male,0,1,0,1
+1151,Botswana,2012,male,0,1,0,1
+1152,Cyprus,2012,male,0,1,0,1
+1153,Finland,2012,male,0,1,0,1
+1154,Gabon,2012,male,0,1,0,1
+1155,Guatemala,2012,male,0,1,0,1
+1156,Malaysia,2012,male,0,1,0,1
+1157,Thailand,2012,male,0,1,0,1
+1158,Uzbekistan,2012,male,0,0,3,3
+1159,Lithuania,2012,male,0,0,2,2
+1160,Afghanistan,2012,male,0,0,1,1
+1161,Bulgaria,2012,male,0,0,1,1
+1162,Greece,2012,male,0,0,1,1
+1163,Kuwait,2012,male,0,0,1,1
+1164,Morocco,2012,male,0,0,1,1
+1165,Serbia,2012,male,0,0,1,1
+1166,Slovakia,2012,male,0,0,1,1
+1167,Vietnam,2012,male,0,0,1,1
+1168,Great Britain,2016,male,14,8,7,29
+1169,United States,2016,male,13,15,17,45
+1170,People's Republic of China,2016,male,9,7,7,23
+1171,Russian Federation,2016,male,8,4,13,25
+1172,Italy,2016,male,7,2,3,12
+1173,Germany,2016,male,7,0,5,12
+1174,Cuba,2016,male,5,1,3,9
+1175,Japan,2016,male,4,5,10,19
+1176,Uzbekistan,2016,male,4,2,7,13
+1177,France,2016,male,3,8,10,21
+1178,Kenya,2016,male,3,3,0,6
+1179,Republic of Korea,2016,male,3,2,6,11
+1180,Australia,2016,male,3,2,1,6
+1181,Islamic Republic of Iran,2016,male,3,1,3,7
+1182,Jamaica,2016,male,3,0,0,3
+1183,Brazil,2016,male,2,4,4,10
+1184,Ukraine,2016,male,2,4,1,7
+1185,Kazakhstan,2016,male,2,3,4,9
+1186,Netherlands,2016,male,2,3,0,5
+1187,Georgia,2016,male,2,1,4,7
+1188,Switzerland,2016,male,2,0,0,2
+1189,Azerbaijan,2016,male,1,6,7,14
+1190,South Africa,2016,male,1,4,1,6
+1191,Türkiye,2016,male,1,3,3,7
+1192,Armenia,2016,male,1,3,0,4
+1193,Belarus,2016,male,1,2,2,5
+1194,Czechia,2016,male,1,2,2,5
+1195,Croatia,2016,male,1,2,1,4
+1196,Hungary,2016,male,1,2,1,4
+1197,Canada,2016,male,1,1,3,5
+1198,Spain,2016,male,1,1,3,5
+1199,Colombia,2016,male,1,1,2,4
+1200,Belgium,2016,male,1,1,1,3
+1201,Democratic People's Republic of Korea,2016,male,1,1,1,3
+1202,Greece,2016,male,1,1,0,2
+1203,Slovakia,2016,male,1,1,0,2
+1204,Vietnam,2016,male,1,1,0,2
+1205,New Zealand,2016,male,1,0,3,4
+1206,Independent Olympic Athletes,2016,male,1,0,1,2
+1207,Côte d'Ivoire,2016,male,1,0,0,1
+1208,Jordan,2016,male,1,0,0,1
+1209,Serbia,2016,male,1,0,0,1
+1210,Singapore,2016,male,1,0,0,1
+1211,Tajikistan,2016,male,1,0,0,1
+1212,Sweden,2016,male,0,3,0,3
+1213,Denmark,2016,male,0,2,2,4
+1214,Algeria,2016,male,0,2,0,2
+1215,Slovenia,2016,male,0,2,0,2
+1216,Ethiopia,2016,male,0,1,2,3
+1217,Mexico,2016,male,0,1,2,3
+1218,Poland,2016,male,0,1,2,3
+1219,Malaysia,2016,male,0,1,1,2
+1220,Thailand,2016,male,0,1,1,2
+1221,Argentina,2016,male,0,1,0,1
+1222,Grenada,2016,male,0,1,0,1
+1223,Indonesia,2016,male,0,1,0,1
+1224,Niger,2016,male,0,1,0,1
+1225,Qatar,2016,male,0,1,0,1
+1226,Venezuela,2016,male,0,1,0,1
+1227,Dominican Republic,2016,male,0,0,1,1
+1228,Egypt,2016,male,0,0,1,1
+1229,Israel,2016,male,0,0,1,1
+1230,Lithuania,2016,male,0,0,1,1
+1231,Mongolia,2016,male,0,0,1,1
+1232,Morocco,2016,male,0,0,1,1
+1233,Norway,2016,male,0,0,1,1
+1234,Romania,2016,male,0,0,1,1
+1235,Trinidad and Tobago,2016,male,0,0,1,1
+1236,Tunisia,2016,male,0,0,1,1
+1237,United Arab Emirates,2016,male,0,0,1,1
+1238,United States,2020,male,12,13,9,34
+1239,People's Republic of China,2020,male,11,10,7,28
+1240,Great Britain,2020,male,10,8,9,27
+1241,Japan,2020,male,10,4,6,20
+1242,ROC,2020,male,9,5,13,27
+1243,Cuba,2020,male,6,2,4,12
+1244,Hungary,2020,male,5,6,2,13
+1245,Italy,2020,male,5,5,7,17
+1246,Australia,2020,male,4,2,6,12
+1247,Netherlands,2020,male,3,5,2,10
+1248,Czechia,2020,male,3,3,2,8
+1249,France,2020,male,3,3,2,8
+1250,Brazil,2020,male,3,2,6,11
+1251,Islamic Republic of Iran,2020,male,3,2,2,7
+1252,Norway,2020,male,3,2,1,6
+1253,Uzbekistan,2020,male,3,0,2,5
+1254,Georgia,2020,male,2,5,1,8
+1255,Germany,2020,male,2,3,6,11
+1256,Kenya,2020,male,2,2,1,5
+1257,Sweden,2020,male,2,2,0,4
+1258,Canada,2020,male,2,1,2,5
+1259,Poland,2020,male,2,0,3,5
+1260,Greece,2020,male,2,0,1,3
+1261,Slovenia,2020,male,2,0,1,3
+1262,Qatar,2020,male,2,0,0,2
+1263,Ukraine,2020,male,1,3,3,7
+1264,Spain,2020,male,1,2,3,6
+1265,Republic of Korea,2020,male,1,1,6,8
+1266,Türkiye,2020,male,1,1,6,8
+1267,Belarus,2020,male,1,1,1,3
+1268,India,2020,male,1,1,1,3
+1269,Uganda,2020,male,1,1,1,3
+1270,Denmark,2020,male,1,1,0,2
+1271,Ethiopia,2020,male,1,1,0,2
+1272,Tunisia,2020,male,1,1,0,2
+1273,Portugal,2020,male,1,0,2,3
+1274,Jamaica,2020,male,1,0,1,2
+1275,Ecuador,2020,male,1,0,0,1
+1276,"Hong Kong, China",2020,male,1,0,0,1
+1277,Israel,2020,male,1,0,0,1
+1278,Morocco,2020,male,1,0,0,1
+1279,The Bahamas,2020,male,1,0,0,1
+1280,Venezuela,2020,male,0,3,0,3
+1281,Armenia,2020,male,0,2,2,4
+1282,Azerbaijan,2020,male,0,2,2,4
+1283,Croatia,2020,male,0,2,2,4
+1284,Chinese Taipei,2020,male,0,2,1,3
+1285,Colombia,2020,male,0,2,1,3
+1286,Slovakia,2020,male,0,2,0,2
+1287,New Zealand,2020,male,0,1,4,5
+1288,Belgium,2020,male,0,1,2,3
+1289,Egypt,2020,male,0,1,2,3
+1290,Indonesia,2020,male,0,1,2,3
+1291,Serbia,2020,male,0,1,2,3
+1292,Switzerland,2020,male,0,1,2,3
+1293,Jordan,2020,male,0,1,1,2
+1294,Mongolia,2020,male,0,1,1,2
+1295,Philippines,2020,male,0,1,1,2
+1296,Dominican Republic,2020,male,0,1,0,1
+1297,Kingdom of Saudi Arabia,2020,male,0,1,0,1
+1298,Kyrgyzstan,2020,male,0,1,0,1
+1299,Malaysia,2020,male,0,1,0,1
+1300,North Macedonia,2020,male,0,1,0,1
+1301,Kazakhstan,2020,male,0,0,6,6
+1302,Austria,2020,male,0,0,3,3
+1303,Burkina Faso,2020,male,0,0,1,1
+1304,Finland,2020,male,0,0,1,1
+1305,Ghana,2020,male,0,0,1,1
+1306,Grenada,2020,male,0,0,1,1
+1307,Ireland,2020,male,0,0,1,1
+1308,Kuwait,2020,male,0,0,1,1
+1309,Latvia,2020,male,0,0,1,1
+1310,Republic of Moldova,2020,male,0,0,1,1
+1311,San Marino,2020,male,0,0,1,1
+1312,Syrian Arab Republic,2020,male,0,0,1,1
+1313,United States,1896,female,17,16,18,51
+1314,People's Republic of China,1896,female,15,13,7,35
+1315,Japan,1896,female,13,6,8,27
+1316,Australia,1896,female,7,2,7,16
+1317,Germany,1896,female,5,2,3,10
+1318,ROC,1896,female,4,10,6,20
+1319,Great Britain,1896,female,4,6,8,18
+1320,Netherlands,1896,female,4,3,9,16
+1321,Canada,1896,female,3,3,4,10
+1322,Switzerland,1896,female,3,2,3,8
+1323,New Zealand,1896,female,3,1,2,6
+1324,Brazil,1896,female,2,3,1,6
+1325,Kenya,1896,female,2,2,1,5
+1326,Bulgaria,1896,female,2,1,2,5
+1327,Jamaica,1896,female,2,1,2,5
+1328,Serbia,1896,female,2,0,1,3
+1329,Belgium,1896,female,2,0,0,2
+1330,Kosovo,1896,female,2,0,0,2
+1331,France,1896,female,1,4,3,8
+1332,Italy,1896,female,1,3,7,11
+1333,Spain,1896,female,1,3,1,5
+1334,Republic of Korea,1896,female,1,2,1,4
+1335,South Africa,1896,female,1,2,0,3
+1336,Chinese Taipei,1896,female,1,1,4,6
+1337,Türkiye,1896,female,1,1,3,5
+1338,Austria,1896,female,1,1,2,4
+1339,Poland,1896,female,1,1,1,3
+1340,Ecuador,1896,female,1,1,0,2
+1341,Philippines,1896,female,1,1,0,2
+1342,Slovenia,1896,female,1,1,0,2
+1343,Denmark,1896,female,1,0,3,4
+1344,Egypt,1896,female,1,0,2,3
+1345,Israel,1896,female,1,0,1,2
+1346,Thailand,1896,female,1,0,1,2
+1347,Bermuda,1896,female,1,0,0,1
+1348,Croatia,1896,female,1,0,0,1
+1349,Ireland,1896,female,1,0,0,1
+1350,Puerto Rico,1896,female,1,0,0,1
+1351,Slovakia,1896,female,1,0,0,1
+1352,The Bahamas,1896,female,1,0,0,1
+1353,Uganda,1896,female,1,0,0,1
+1354,Venezuela,1896,female,1,0,0,1
+1355,Ukraine,1896,female,0,2,6,8
+1356,"Hong Kong, China",1896,female,0,2,2,4
+1357,Colombia,1896,female,0,2,0,2
+1358,Sweden,1896,female,0,2,0,2
+1359,Azerbaijan,1896,female,0,1,2,3
+1360,Belarus,1896,female,0,1,2,3
+1361,India,1896,female,0,1,2,3
+1362,Cuba,1896,female,0,1,1,2
+1363,Dominican Republic,1896,female,0,1,1,2
+1364,Hungary,1896,female,0,1,1,2
+1365,Kyrgyzstan,1896,female,0,1,1,2
+1366,Nigeria,1896,female,0,1,1,2
+1367,Bahrain,1896,female,0,1,0,1
+1368,Czechia,1896,female,0,1,0,1
+1369,Lithuania,1896,female,0,1,0,1
+1370,Namibia,1896,female,0,1,0,1
+1371,Portugal,1896,female,0,1,0,1
+1372,Romania,1896,female,0,1,0,1
+1373,Turkmenistan,1896,female,0,1,0,1
+1374,Ethiopia,1896,female,0,0,2,2
+1375,Kazakhstan,1896,female,0,0,2,2
+1376,Mongolia,1896,female,0,0,2,2
+1377,Côte d'Ivoire,1896,female,0,0,1,1
+1378,Estonia,1896,female,0,0,1,1
+1379,Finland,1896,female,0,0,1,1
+1380,Indonesia,1896,female,0,0,1,1
+1381,Mexico,1896,female,0,0,1,1
+1382,San Marino,1896,female,0,0,1,1
+1383,United States,1900,female,1,0,1,2
+1384,Great Britain,1900,female,1,0,0,1
+1385,France,1900,female,0,1,1,2
+1386,Switzerland,1900,female,0,1,0,1
+1387,Bohemia,1900,female,0,0,1,1
+1388,United States,1904,female,2,2,2,6
+1389,Great Britain,1908,female,4,3,3,10
+1390,Germany,1908,female,0,1,0,1
+1391,Sweden,1908,female,0,0,1,1
+1392,Australasia,1912,female,1,1,0,2
+1393,Sweden,1912,female,1,1,0,2
+1394,Great Britain,1912,female,1,0,3,4
+1395,France,1912,female,1,0,0,1
+1396,Denmark,1912,female,0,1,0,1
+1397,Germany,1912,female,0,1,0,1
+1398,Norway,1912,female,0,0,1,1
+1399,United States,1920,female,3,3,4,10
+1400,Sweden,1920,female,1,1,1,3
+1401,France,1920,female,1,1,0,2
+1402,Denmark,1920,female,1,0,0,1
+1403,Great Britain,1920,female,0,2,1,3
+1404,United States,1924,female,6,5,4,15
+1405,Great Britain,1924,female,1,3,2,6
+1406,Denmark,1924,female,1,0,1,2
+1407,France,1924,female,0,1,0,1
+1408,Sweden,1924,female,0,0,1,1
+1409,United States,1928,female,5,4,3,12
+1410,Germany,1928,female,3,0,3,6
+1411,Netherlands,1928,female,1,3,0,4
+1412,Canada,1928,female,1,1,1,3
+1413,Poland,1928,female,1,0,0,1
+1414,Great Britain,1928,female,0,3,2,5
+1415,Japan,1928,female,0,1,0,1
+1416,Sweden,1928,female,0,0,3,3
+1417,United States,1932,female,9,7,4,20
+1418,Poland,1932,female,1,1,1,3
+1419,Australia,1932,female,1,1,0,2
+1420,Austria,1932,female,1,0,0,1
+1421,Canada,1932,female,0,1,1,2
+1422,Germany,1932,female,0,1,1,2
+1423,Great Britain,1932,female,0,1,1,2
+1424,Japan,1932,female,0,1,0,1
+1425,Netherlands,1932,female,0,1,0,1
+1426,South Africa,1932,female,0,0,2,2
+1427,Denmark,1932,female,0,0,1,1
+1428,Hungary,1932,female,0,0,1,1
+1429,United States,1936,female,3,2,3,8
+1430,Netherlands,1936,female,3,1,0,4
+1431,Germany,1936,female,2,4,5,11
+1432,Hungary,1936,female,2,0,0,2
+1433,Italy,1936,female,1,0,0,1
+1434,Japan,1936,female,1,0,0,1
+1435,Poland,1936,female,0,2,1,3
+1436,Denmark,1936,female,0,1,1,2
+1437,Argentina,1936,female,0,1,0,1
+1438,Great Britain,1936,female,0,1,0,1
+1439,Austria,1936,female,0,0,1,1
+1440,Canada,1936,female,0,0,1,1
+1441,United States,1948,female,4,4,2,10
+1442,Netherlands,1948,female,4,1,1,6
+1443,Denmark,1948,female,3,2,2,7
+1444,France,1948,female,2,0,2,4
+1445,Hungary,1948,female,2,0,2,4
+1446,Finland,1948,female,1,1,0,2
+1447,Austria,1948,female,1,0,3,4
+1448,Great Britain,1948,female,0,4,2,6
+1449,Italy,1948,female,0,2,0,2
+1450,Australia,1948,female,0,1,3,4
+1451,Argentina,1948,female,0,1,0,1
+1452,Ireland,1948,female,0,0,1,1
+1453,Sweden,1948,female,0,0,1,1
+1454,Soviet Union,1952,female,5,9,7,21
+1455,Hungary,1952,female,5,3,5,13
+1456,Australia,1952,female,3,0,1,4
+1457,United States,1952,female,2,1,3,6
+1458,South Africa,1952,female,2,1,0,3
+1459,New Zealand,1952,female,1,0,1,2
+1460,Czechoslovakia,1952,female,1,0,0,1
+1461,Finland,1952,female,1,0,0,1
+1462,Italy,1952,female,1,0,0,1
+1463,Netherlands,1952,female,0,3,0,3
+1464,Great Britain,1952,female,0,1,2,3
+1465,Denmark,1952,female,0,1,1,2
+1466,Germany,1952,female,0,1,1,2
+1467,Austria,1952,female,0,1,0,1
+1468,France,1952,female,0,1,0,1
+1469,Soviet Union,1956,female,6,6,5,17
+1470,Australia,1956,female,5,2,4,11
+1471,United States,1956,female,4,5,3,12
+1472,Hungary,1956,female,3,2,1,6
+1473,Great Britain,1956,female,2,1,1,4
+1474,Germany,1956,female,1,4,2,7
+1475,Czechoslovakia,1956,female,1,1,0,2
+1476,Poland,1956,female,1,0,0,1
+1477,Romania,1956,female,0,1,1,2
+1478,Chile,1956,female,0,1,0,1
+1479,Canada,1956,female,0,0,1,1
+1480,Denmark,1956,female,0,0,1,1
+1481,France,1956,female,0,0,1,1
+1482,Sweden,1956,female,0,0,1,1
+1483,Soviet Union,1960,female,11,7,7,25
+1484,United States,1960,female,5,3,1,9
+1485,Germany,1960,female,3,4,4,11
+1486,Great Britain,1960,female,1,4,3,8
+1487,Australia,1960,female,1,1,1,3
+1488,Czechoslovakia,1960,female,1,1,0,2
+1489,Romania,1960,female,1,0,2,3
+1490,Poland,1960,female,0,2,1,3
+1491,Netherlands,1960,female,0,1,1,2
+1492,Sweden,1960,female,0,1,0,1
+1493,Italy,1960,female,0,0,1,1
+1494,Japan,1960,female,0,0,1,1
+1495,United States,1964,female,7,6,7,20
+1496,Soviet Union,1964,female,7,4,10,21
+1497,Czechoslovakia,1964,female,3,0,0,3
+1498,Germany,1964,female,2,5,0,7
+1499,Great Britain,1964,female,2,2,0,4
+1500,Australia,1964,female,2,1,3,6
+1501,Romania,1964,female,2,1,1,4
+1502,Hungary,1964,female,1,2,1,4
+1503,Poland,1964,female,0,3,1,4
+1504,France,1964,female,0,2,0,2
+1505,Netherlands,1964,female,0,1,0,1
+1506,Italy,1964,female,0,0,1,1
+1507,New Zealand,1964,female,0,0,1,1
+1508,United States,1968,female,12,8,10,30
+1509,Czechoslovakia,1968,female,6,1,0,7
+1510,Soviet Union,1968,female,4,5,10,19
+1511,Australia,1968,female,2,2,2,6
+1512,Romania,1968,female,2,2,1,5
+1513,East Germany,1968,female,1,4,1,6
+1514,West Germany,1968,female,1,2,0,3
+1515,Yugoslavia,1968,female,1,1,0,2
+1516,Hungary,1968,female,1,0,3,4
+1517,Netherlands,1968,female,1,0,1,2
+1518,Poland,1968,female,1,0,1,2
+1519,France,1968,female,1,0,0,1
+1520,Great Britain,1968,female,0,3,0,3
+1521,Canada,1968,female,0,2,0,2
+1522,Austria,1968,female,0,1,1,2
+1523,Mexico,1968,female,0,1,1,2
+1524,Chinese Taipei,1968,female,0,0,1,1
+1525,East Germany,1972,female,8,8,7,23
+1526,United States,1972,female,8,5,6,19
+1527,Soviet Union,1972,female,7,6,6,19
+1528,Australia,1972,female,5,3,2,10
+1529,West Germany,1972,female,4,3,1,8
+1530,Italy,1972,female,1,1,3,5
+1531,Great Britain,1972,female,1,1,0,2
+1532,Sweden,1972,female,1,1,0,2
+1533,Japan,1972,female,1,0,0,1
+1534,Bulgaria,1972,female,0,2,2,4
+1535,Hungary,1972,female,0,2,2,4
+1536,Romania,1972,female,0,2,0,2
+1537,Canada,1972,female,0,1,1,2
+1538,Czechoslovakia,1972,female,0,1,1,2
+1539,Poland,1972,female,0,1,1,2
+1540,Netherlands,1972,female,0,1,0,1
+1541,Austria,1972,female,0,0,1,1
+1542,Cuba,1972,female,0,0,1,1
+1543,East Germany,1976,female,19,11,7,37
+1544,Soviet Union,1976,female,6,10,8,24
+1545,Romania,1976,female,3,1,2,6
+1546,United States,1976,female,2,6,5,13
+1547,Bulgaria,1976,female,1,2,1,4
+1548,West Germany,1976,female,1,2,1,4
+1549,Hungary,1976,female,1,0,2,3
+1550,Poland,1976,female,1,0,0,1
+1551,Switzerland,1976,female,1,0,0,1
+1552,Italy,1976,female,0,2,0,2
+1553,Canada,1976,female,0,1,4,5
+1554,Sweden,1976,female,0,1,0,1
+1555,Netherlands,1976,female,0,0,2,2
+1556,Czechoslovakia,1976,female,0,0,1,1
+1557,East Germany,1980,female,16,15,16,47
+1558,Soviet Union,1980,female,12,11,11,34
+1559,Romania,1980,female,3,2,2,7
+1560,Australia,1980,female,1,0,1,2
+1561,Austria,1980,female,1,0,0,1
+1562,Cuba,1980,female,1,0,0,1
+1563,France,1980,female,1,0,0,1
+1564,Italy,1980,female,1,0,0,1
+1565,Bulgaria,1980,female,0,2,0,2
+1566,Poland,1980,female,0,1,3,4
+1567,Czechoslovakia,1980,female,0,1,0,1
+1568,Great Britain,1980,female,0,1,0,1
+1569,Hungary,1980,female,0,1,0,1
+1570,Denmark,1980,female,0,0,1,1
+1571,Finland,1980,female,0,0,1,1
+1572,Jamaica,1980,female,0,0,1,1
+1573,United States,1984,female,20,22,8,50
+1574,Romania,1984,female,8,5,7,20
+1575,Canada,1984,female,4,2,1,7
+1576,People's Republic of China,1984,female,4,1,1,6
+1577,Netherlands,1984,female,3,0,4,7
+1578,West Germany,1984,female,2,3,6,11
+1579,Great Britain,1984,female,1,3,6,10
+1580,Australia,1984,female,1,2,3,6
+1581,Italy,1984,female,1,2,1,4
+1582,Republic of Korea,1984,female,1,0,1,2
+1583,Morocco,1984,female,1,0,0,1
+1584,Sweden,1984,female,1,0,0,1
+1585,Denmark,1984,female,0,1,0,1
+1586,Finland,1984,female,0,1,0,1
+1587,Norway,1984,female,0,1,0,1
+1588,Belgium,1984,female,0,0,2,2
+1589,France,1984,female,0,0,2,2
+1590,Jamaica,1984,female,0,0,2,2
+1591,Japan,1984,female,0,0,1,1
+1592,Portugal,1984,female,0,0,1,1
+1593,Switzerland,1984,female,0,0,1,1
+1594,East Germany,1988,female,12,15,13,40
+1595,Soviet Union,1988,female,10,6,12,28
+1596,United States,1988,female,8,4,8,20
+1597,Romania,1988,female,4,4,3,11
+1598,West Germany,1988,female,4,3,2,9
+1599,People's Republic of China,1988,female,3,5,3,11
+1600,Bulgaria,1988,female,3,4,5,12
+1601,Australia,1988,female,1,1,1,3
+1602,Republic of Korea,1988,female,1,1,1,3
+1603,Hungary,1988,female,1,1,0,2
+1604,Yugoslavia,1988,female,1,0,1,2
+1605,Canada,1988,female,1,0,0,1
+1606,Netherlands,1988,female,1,0,0,1
+1607,Portugal,1988,female,1,0,0,1
+1608,Great Britain,1988,female,0,2,2,4
+1609,France,1988,female,0,1,1,2
+1610,Japan,1988,female,0,1,1,2
+1611,Argentina,1988,female,0,1,0,1
+1612,Costa Rica,1988,female,0,1,0,1
+1613,Jamaica,1988,female,0,1,0,1
+1614,Poland,1988,female,0,0,1,1
+1615,Switzerland,1988,female,0,0,1,1
+1616,People's Republic of China,1992,female,11,10,6,27
+1617,Unified Team,1992,female,9,11,7,27
+1618,United States,1992,female,9,9,14,32
+1619,Germany,1992,female,8,5,8,21
+1620,Hungary,1992,female,4,3,0,7
+1621,Republic of Korea,1992,female,3,2,1,6
+1622,France,1992,female,3,1,3,7
+1623,Romania,1992,female,3,1,2,6
+1624,Spain,1992,female,2,2,1,5
+1625,Cuba,1992,female,2,1,4,7
+1626,Japan,1992,female,1,4,3,8
+1627,Australia,1992,female,1,3,5,9
+1628,Great Britain,1992,female,1,1,2,4
+1629,Italy,1992,female,1,1,0,2
+1630,Netherlands,1992,female,1,0,4,5
+1631,Canada,1992,female,1,0,2,3
+1632,New Zealand,1992,female,1,0,1,2
+1633,Algeria,1992,female,1,0,0,1
+1634,Estonia,1992,female,1,0,0,1
+1635,Ethiopia,1992,female,1,0,0,1
+1636,Greece,1992,female,1,0,0,1
+1637,Indonesia,1992,female,1,0,0,1
+1638,Norway,1992,female,1,0,0,1
+1639,Bulgaria,1992,female,0,3,2,5
+1640,Jamaica,1992,female,0,2,1,3
+1641,Belgium,1992,female,0,1,1,2
+1642,Independent Olympic Athletes,1992,female,0,1,1,2
+1643,Israel,1992,female,0,1,0,1
+1644,South Africa,1992,female,0,1,0,1
+1645,Poland,1992,female,0,0,2,2
+1646,Colombia,1992,female,0,0,1,1
+1647,Democratic People's Republic of Korea,1992,female,0,0,1,1
+1648,Mongolia,1992,female,0,0,1,1
+1649,Türkiye,1992,female,0,0,1,1
+1650,United States,1996,female,8,8,10,26
+1651,People's Republic of China,1996,female,7,7,4,18
+1652,France,1996,female,7,3,4,14
+1653,Russian Federation,1996,female,6,7,2,15
+1654,Ukraine,1996,female,4,1,3,8
+1655,Germany,1996,female,3,7,5,15
+1656,Republic of Korea,1996,female,3,2,1,6
+1657,Ireland,1996,female,3,0,1,4
+1658,Italy,1996,female,2,4,5,11
+1659,Romania,1996,female,2,3,4,9
+1660,Hungary,1996,female,2,0,3,5
+1661,South Africa,1996,female,2,0,1,3
+1662,Australia,1996,female,1,4,3,8
+1663,Cuba,1996,female,1,2,3,6
+1664,Japan,1996,female,1,2,2,5
+1665,Jamaica,1996,female,1,2,0,3
+1666,Belarus,1996,female,1,1,1,3
+1667,Belgium,1996,female,1,1,1,3
+1668,Bulgaria,1996,female,1,1,1,3
+1669,Poland,1996,female,1,1,1,3
+1670,Czechia,1996,female,1,0,2,3
+1671,Nigeria,1996,female,1,0,2,3
+1672,Denmark,1996,female,1,0,1,2
+1673,Ethiopia,1996,female,1,0,1,2
+1674,Serbia and Montenegro,1996,female,1,0,1,2
+1675,Costa Rica,1996,female,1,0,0,1
+1676,Democratic People's Republic of Korea,1996,female,1,0,0,1
+1677,Finland,1996,female,1,0,0,1
+1678,"Hong Kong, China",1996,female,1,0,0,1
+1679,Portugal,1996,female,1,0,0,1
+1680,Sweden,1996,female,1,0,0,1
+1681,Syrian Arab Republic,1996,female,1,0,0,1
+1682,Canada,1996,female,0,4,3,7
+1683,Netherlands,1996,female,0,3,5,8
+1684,New Zealand,1996,female,0,2,0,2
+1685,Spain,1996,female,0,1,2,3
+1686,Indonesia,1996,female,0,1,1,2
+1687,Chinese Taipei,1996,female,0,1,0,1
+1688,Greece,1996,female,0,1,0,1
+1689,Kenya,1996,female,0,1,0,1
+1690,Slovenia,1996,female,0,1,0,1
+1691,Austria,1996,female,0,0,1,1
+1692,Great Britain,1996,female,0,0,1,1
+1693,Mozambique,1996,female,0,0,1,1
+1694,Norway,1996,female,0,0,1,1
+1695,People's Republic of China,2000,female,13,6,7,26
+1696,United States,2000,female,9,4,11,24
+1697,Russian Federation,2000,female,7,13,6,26
+1698,Netherlands,2000,female,7,2,0,9
+1699,Italy,2000,female,5,2,3,10
+1700,Romania,2000,female,4,5,5,14
+1701,Australia,2000,female,3,5,4,12
+1702,France,2000,female,3,5,3,11
+1703,Republic of Korea,2000,female,3,2,4,9
+1704,Great Britain,2000,female,3,1,4,8
+1705,Belarus,2000,female,3,1,3,7
+1706,Japan,2000,female,2,3,4,9
+1707,Cuba,2000,female,2,3,1,6
+1708,Ukraine,2000,female,2,2,2,6
+1709,Hungary,2000,female,2,1,1,4
+1710,Bulgaria,2000,female,2,1,0,3
+1711,Poland,2000,female,2,1,0,3
+1712,Germany,2000,female,1,4,6,11
+1713,Sweden,2000,female,1,2,1,4
+1714,Switzerland,2000,female,1,2,1,4
+1715,Norway,2000,female,1,2,0,3
+1716,Ethiopia,2000,female,1,1,1,3
+1717,Spain,2000,female,1,0,3,4
+1718,Lithuania,2000,female,1,0,1,2
+1719,Algeria,2000,female,1,0,0,1
+1720,Azerbaijan,2000,female,1,0,0,1
+1721,Colombia,2000,female,1,0,0,1
+1722,Czechia,2000,female,1,0,0,1
+1723,Kazakhstan,2000,female,1,0,0,1
+1724,Mexico,2000,female,1,0,0,1
+1725,Mozambique,2000,female,1,0,0,1
+1726,The Bahamas,2000,female,1,0,0,1
+1727,Jamaica,2000,female,0,3,2,5
+1728,Greece,2000,female,0,3,1,4
+1729,Nigeria,2000,female,0,2,0,2
+1730,Slovakia,2000,female,0,2,0,2
+1731,Canada,2000,female,0,1,3,4
+1732,Chinese Taipei,2000,female,0,1,3,4
+1733,Indonesia,2000,female,0,1,2,3
+1734,Democratic People's Republic of Korea,2000,female,0,1,1,2
+1735,South Africa,2000,female,0,1,1,2
+1736,Austria,2000,female,0,1,0,1
+1737,Denmark,2000,female,0,1,0,1
+1738,Ireland,2000,female,0,1,0,1
+1739,Serbia and Montenegro,2000,female,0,1,0,1
+1740,Sri Lanka,2000,female,0,1,0,1
+1741,Vietnam,2000,female,0,1,0,1
+1742,Belgium,2000,female,0,0,2,2
+1743,Costa Rica,2000,female,0,0,2,2
+1744,Argentina,2000,female,0,0,1,1
+1745,Iceland,2000,female,0,0,1,1
+1746,India,2000,female,0,0,1,1
+1747,Kenya,2000,female,0,0,1,1
+1748,Morocco,2000,female,0,0,1,1
+1749,New Zealand,2000,female,0,0,1,1
+1750,Portugal,2000,female,0,0,1,1
+1751,Thailand,2000,female,0,0,1,1
+1752,Türkiye,2000,female,0,0,1,1
+1753,People's Republic of China,2004,female,13,8,8,29
+1754,Japan,2004,female,9,2,3,14
+1755,Russian Federation,2004,female,8,11,9,28
+1756,United States,2004,female,6,12,9,27
+1757,Australia,2004,female,6,5,6,17
+1758,Ukraine,2004,female,5,1,3,9
+1759,Romania,2004,female,4,2,2,8
+1760,Hungary,2004,female,4,1,0,5
+1761,France,2004,female,3,6,5,14
+1762,Germany,2004,female,3,4,5,12
+1763,Netherlands,2004,female,3,3,3,9
+1764,Cuba,2004,female,2,3,5,10
+1765,Republic of Korea,2004,female,2,3,3,8
+1766,Greece,2004,female,2,3,1,6
+1767,Great Britain,2004,female,2,0,5,7
+1768,Thailand,2004,female,2,0,3,5
+1769,Norway,2004,female,2,0,0,2
+1770,Italy,2004,female,1,4,2,7
+1771,Canada,2004,female,1,3,1,5
+1772,Poland,2004,female,1,2,3,6
+1773,Belarus,2004,female,1,2,2,5
+1774,Ethiopia,2004,female,1,1,2,4
+1775,Zimbabwe,2004,female,1,1,1,3
+1776,Austria,2004,female,1,1,0,2
+1777,Bulgaria,2004,female,1,0,2,3
+1778,Belgium,2004,female,1,0,1,2
+1779,Jamaica,2004,female,1,0,1,2
+1780,The Bahamas,2004,female,1,0,1,2
+1781,Cameroon,2004,female,1,0,0,1
+1782,Chinese Taipei,2004,female,1,0,0,1
+1783,New Zealand,2004,female,1,0,0,1
+1784,Slovakia,2004,female,1,0,0,1
+1785,Sweden,2004,female,1,0,0,1
+1786,Türkiye,2004,female,1,0,0,1
+1787,Democratic People's Republic of Korea,2004,female,0,3,0,3
+1788,Czechia,2004,female,0,2,2,4
+1789,Mexico,2004,female,0,2,1,3
+1790,Kenya,2004,female,0,2,0,2
+1791,Spain,2004,female,0,1,2,3
+1792,Indonesia,2004,female,0,1,0,1
+1793,Latvia,2004,female,0,1,0,1
+1794,Lithuania,2004,female,0,1,0,1
+1795,Morocco,2004,female,0,1,0,1
+1796,Serbia and Montenegro,2004,female,0,1,0,1
+1797,South Africa,2004,female,0,1,0,1
+1798,Azerbaijan,2004,female,0,0,2,2
+1799,Colombia,2004,female,0,0,2,2
+1800,Slovenia,2004,female,0,0,2,2
+1801,Argentina,2004,female,0,0,1,1
+1802,Denmark,2004,female,0,0,1,1
+1803,Switzerland,2004,female,0,0,1,1
+1804,Venezuela,2004,female,0,0,1,1
+1805,People's Republic of China,2008,female,18,5,14,37
+1806,United States,2008,female,9,18,14,41
+1807,Russian Federation,2008,female,7,5,4,16
+1808,Great Britain,2008,female,6,4,8,18
+1809,Australia,2008,female,5,5,4,14
+1810,Germany,2008,female,5,3,4,12
+1811,Italy,2008,female,4,3,3,10
+1812,Japan,2008,female,4,2,4,10
+1813,Republic of Korea,2008,female,3,4,2,9
+1814,Jamaica,2008,female,3,3,2,8
+1815,Romania,2008,female,3,1,0,4
+1816,Kenya,2008,female,2,3,2,7
+1817,Ukraine,2008,female,2,2,4,8
+1818,Democratic People's Republic of Korea,2008,female,2,2,1,5
+1819,Netherlands,2008,female,2,1,2,5
+1820,Czechia,2008,female,2,1,0,3
+1821,Ethiopia,2008,female,2,1,0,3
+1822,Cuba,2008,female,1,5,4,10
+1823,Canada,2008,female,1,3,3,7
+1824,Zimbabwe,2008,female,1,3,0,4
+1825,France,2008,female,1,2,3,6
+1826,Thailand,2008,female,1,1,2,4
+1827,Kazakhstan,2008,female,1,1,1,3
+1828,Bulgaria,2008,female,1,1,0,2
+1829,Chinese Taipei,2008,female,1,1,0,2
+1830,Slovakia,2008,female,1,1,0,2
+1831,Brazil,2008,female,1,0,2,3
+1832,Mexico,2008,female,1,0,1,2
+1833,Belgium,2008,female,1,0,0,1
+1834,Cameroon,2008,female,1,0,0,1
+1835,Finland,2008,female,1,0,0,1
+1836,New Zealand,2008,female,1,0,0,1
+1837,Norway,2008,female,0,2,1,3
+1838,Croatia,2008,female,0,1,3,4
+1839,Belarus,2008,female,0,1,2,3
+1840,Colombia,2008,female,0,1,1,2
+1841,Nigeria,2008,female,0,1,1,2
+1842,Poland,2008,female,0,1,1,2
+1843,Slovenia,2008,female,0,1,1,2
+1844,Spain,2008,female,0,1,1,2
+1845,Lithuania,2008,female,0,1,0,1
+1846,Mongolia,2008,female,0,1,0,1
+1847,Portugal,2008,female,0,1,0,1
+1848,Samoa,2008,female,0,1,0,1
+1849,Sweden,2008,female,0,1,0,1
+1850,Türkiye,2008,female,0,1,0,1
+1851,Austria,2008,female,0,0,2,2
+1852,Indonesia,2008,female,0,0,2,2
+1853,Algeria,2008,female,0,0,1,1
+1854,Argentina,2008,female,0,0,1,1
+1855,Azerbaijan,2008,female,0,0,1,1
+1856,Denmark,2008,female,0,0,1,1
+1857,Egypt,2008,female,0,0,1,1
+1858,Georgia,2008,female,0,0,1,1
+1859,Hungary,2008,female,0,0,1,1
+1860,Morocco,2008,female,0,0,1,1
+1861,Switzerland,2008,female,0,0,1,1
+1862,Uzbekistan,2008,female,0,0,1,1
+1863,Venezuela,2008,female,0,0,1,1
+1864,United States,2012,female,19,9,12,40
+1865,People's Republic of China,2012,female,16,17,11,44
+1866,Great Britain,2012,female,6,5,5,16
+1867,Russian Federation,2012,female,4,11,10,25
+1868,France,2012,female,4,3,6,13
+1869,Japan,2012,female,4,3,4,11
+1870,Republic of Korea,2012,female,4,0,1,5
+1871,Netherlands,2012,female,3,2,3,8
+1872,Ethiopia,2012,female,3,1,2,6
+1873,Australia,2012,female,2,4,5,11
+1874,Spain,2012,female,2,3,3,8
+1875,Italy,2012,female,2,1,3,6
+1876,Canada,2012,female,2,1,1,4
+1877,Czechia,2012,female,2,1,1,4
+1878,New Zealand,2012,female,2,1,0,3
+1879,Hungary,2012,female,2,0,2,4
+1880,Democratic People's Republic of Korea,2012,female,2,0,1,3
+1881,Lithuania,2012,female,2,0,1,3
+1882,Romania,2012,female,1,3,0,4
+1883,Ukraine,2012,female,1,2,5,8
+1884,Cuba,2012,female,1,2,1,4
+1885,Colombia,2012,female,1,1,3,5
+1886,Jamaica,2012,female,1,1,2,4
+1887,Poland,2012,female,1,1,1,3
+1888,Serbia,2012,female,1,1,0,2
+1889,Brazil,2012,female,1,0,3,4
+1890,Kazakhstan,2012,female,1,0,3,4
+1891,Chinese Taipei,2012,female,1,0,1,2
+1892,Croatia,2012,female,1,0,1,2
+1893,South Africa,2012,female,1,0,1,2
+1894,Bahrain,2012,female,1,0,0,1
+1895,Ireland,2012,female,1,0,0,1
+1896,Slovenia,2012,female,1,0,0,1
+1897,Switzerland,2012,female,1,0,0,1
+1898,Tunisia,2012,female,1,0,0,1
+1899,Germany,2012,female,0,7,3,10
+1900,Kenya,2012,female,0,3,3,6
+1901,Belarus,2012,female,0,2,2,4
+1902,Bulgaria,2012,female,0,2,0,2
+1903,Sweden,2012,female,0,2,0,2
+1904,Mexico,2012,female,0,1,4,5
+1905,Thailand,2012,female,0,1,2,3
+1906,Azerbaijan,2012,female,0,1,1,2
+1907,Slovakia,2012,female,0,1,1,2
+1908,Denmark,2012,female,0,1,0,1
+1909,Egypt,2012,female,0,1,0,1
+1910,Finland,2012,female,0,1,0,1
+1911,Indonesia,2012,female,0,1,0,1
+1912,Türkiye,2012,female,0,1,0,1
+1913,Belgium,2012,female,0,0,2,2
+1914,India,2012,female,0,0,2,2
+1915,Cameroon,2012,female,0,0,1,1
+1916,"Hong Kong, China",2012,female,0,0,1,1
+1917,Malaysia,2012,female,0,0,1,1
+1918,Mongolia,2012,female,0,0,1,1
+1919,Singapore,2012,female,0,0,1,1
+1920,Tajikistan,2012,female,0,0,1,1
+1921,United States,2016,female,19,15,14,48
+1922,People's Republic of China,2016,female,9,8,14,31
+1923,Japan,2016,female,6,1,7,14
+1924,Netherlands,2016,female,5,2,2,9
+1925,Hungary,2016,female,5,1,2,8
+1926,Russian Federation,2016,female,4,9,5,18
+1927,Great Britain,2016,female,4,7,6,17
+1928,Republic of Korea,2016,female,4,1,2,7
+1929,Spain,2016,female,4,1,2,7
+1930,France,2016,female,3,6,0,9
+1931,Kenya,2016,female,3,3,1,7
+1932,Canada,2016,female,3,1,5,9
+1933,Australia,2016,female,3,1,3,7
+1934,Germany,2016,female,2,4,3,9
+1935,Sweden,2016,female,2,2,3,7
+1936,Colombia,2016,female,2,1,1,4
+1937,Thailand,2016,female,2,1,1,4
+1938,Jamaica,2016,female,2,0,2,4
+1939,Croatia,2016,female,2,0,1,3
+1940,Greece,2016,female,2,0,1,3
+1941,Italy,2016,female,1,5,2,8
+1942,New Zealand,2016,female,1,4,2,7
+1943,Poland,2016,female,1,2,2,5
+1944,Democratic People's Republic of Korea,2016,female,1,2,1,4
+1945,Denmark,2016,female,1,2,1,4
+1946,Ethiopia,2016,female,1,1,3,5
+1947,Bahrain,2016,female,1,1,0,2
+1948,South Africa,2016,female,1,1,0,2
+1949,Brazil,2016,female,1,0,2,3
+1950,Belgium,2016,female,1,0,1,2
+1951,Chinese Taipei,2016,female,1,0,1,2
+1952,Slovenia,2016,female,1,0,1,2
+1953,Argentina,2016,female,1,0,0,1
+1954,Kosovo,2016,female,1,0,0,1
+1955,Puerto Rico,2016,female,1,0,0,1
+1956,The Bahamas,2016,female,1,0,0,1
+1957,Kazakhstan,2016,female,0,2,6,8
+1958,Belarus,2016,female,0,2,1,3
+1959,Mexico,2016,female,0,2,0,2
+1960,Azerbaijan,2016,female,0,1,3,4
+1961,Switzerland,2016,female,0,1,2,3
+1962,Bulgaria,2016,female,0,1,1,2
+1963,Cuba,2016,female,0,1,1,2
+1964,India,2016,female,0,1,1,2
+1965,Serbia,2016,female,0,1,1,2
+1966,Venezuela,2016,female,0,1,1,2
+1967,Burundi,2016,female,0,1,0,1
+1968,Indonesia,2016,female,0,1,0,1
+1969,Ireland,2016,female,0,1,0,1
+1970,Mongolia,2016,female,0,1,0,1
+1971,Philippines,2016,female,0,1,0,1
+1972,Czechia,2016,female,0,0,2,2
+1973,Egypt,2016,female,0,0,2,2
+1974,Tunisia,2016,female,0,0,2,2
+1975,Ukraine,2016,female,0,0,2,2
+1976,Côte d'Ivoire,2016,female,0,0,1,1
+1977,Finland,2016,female,0,0,1,1
+1978,Islamic Republic of Iran,2016,female,0,0,1,1
+1979,Israel,2016,female,0,0,1,1
+1980,Portugal,2016,female,0,0,1,1
+1981,Türkiye,2016,female,0,0,1,1
+1982,United States,2020,female,17,16,18,51
+1983,People's Republic of China,2020,female,15,13,7,35
+1984,Japan,2020,female,13,6,8,27
+1985,Australia,2020,female,7,2,7,16
+1986,Germany,2020,female,5,2,3,10
+1987,ROC,2020,female,4,10,6,20
+1988,Great Britain,2020,female,4,6,8,18
+1989,Netherlands,2020,female,4,3,9,16
+1990,Canada,2020,female,3,3,4,10
+1991,Switzerland,2020,female,3,2,3,8
+1992,New Zealand,2020,female,3,1,2,6
+1993,Brazil,2020,female,2,3,1,6
+1994,Kenya,2020,female,2,2,1,5
+1995,Bulgaria,2020,female,2,1,2,5
+1996,Jamaica,2020,female,2,1,2,5
+1997,Serbia,2020,female,2,0,1,3
+1998,Belgium,2020,female,2,0,0,2
+1999,Kosovo,2020,female,2,0,0,2
+2000,France,2020,female,1,4,3,8
+2001,Italy,2020,female,1,3,7,11
+2002,Spain,2020,female,1,3,1,5
+2003,Republic of Korea,2020,female,1,2,1,4
+2004,South Africa,2020,female,1,2,0,3
+2005,Chinese Taipei,2020,female,1,1,4,6
+2006,Türkiye,2020,female,1,1,3,5
+2007,Austria,2020,female,1,1,2,4
+2008,Poland,2020,female,1,1,1,3
+2009,Ecuador,2020,female,1,1,0,2
+2010,Philippines,2020,female,1,1,0,2
+2011,Slovenia,2020,female,1,1,0,2
+2012,Denmark,2020,female,1,0,3,4
+2013,Egypt,2020,female,1,0,2,3
+2014,Israel,2020,female,1,0,1,2
+2015,Thailand,2020,female,1,0,1,2
+2016,Bermuda,2020,female,1,0,0,1
+2017,Croatia,2020,female,1,0,0,1
+2018,Ireland,2020,female,1,0,0,1
+2019,Puerto Rico,2020,female,1,0,0,1
+2020,Slovakia,2020,female,1,0,0,1
+2021,The Bahamas,2020,female,1,0,0,1
+2022,Uganda,2020,female,1,0,0,1
+2023,Venezuela,2020,female,1,0,0,1
+2024,Ukraine,2020,female,0,2,6,8
+2025,"Hong Kong, China",2020,female,0,2,2,4
+2026,Colombia,2020,female,0,2,0,2
+2027,Sweden,2020,female,0,2,0,2
+2028,Azerbaijan,2020,female,0,1,2,3
+2029,Belarus,2020,female,0,1,2,3
+2030,India,2020,female,0,1,2,3
+2031,Cuba,2020,female,0,1,1,2
+2032,Dominican Republic,2020,female,0,1,1,2
+2033,Hungary,2020,female,0,1,1,2
+2034,Kyrgyzstan,2020,female,0,1,1,2
+2035,Nigeria,2020,female,0,1,1,2
+2036,Bahrain,2020,female,0,1,0,1
+2037,Czechia,2020,female,0,1,0,1
+2038,Lithuania,2020,female,0,1,0,1
+2039,Namibia,2020,female,0,1,0,1
+2040,Portugal,2020,female,0,1,0,1
+2041,Romania,2020,female,0,1,0,1
+2042,Turkmenistan,2020,female,0,1,0,1
+2043,Ethiopia,2020,female,0,0,2,2
+2044,Kazakhstan,2020,female,0,0,2,2
+2045,Mongolia,2020,female,0,0,2,2
+2046,Côte d'Ivoire,2020,female,0,0,1,1
+2047,Estonia,2020,female,0,0,1,1
+2048,Finland,2020,female,0,0,1,1
+2049,Indonesia,2020,female,0,0,1,1
+2050,Mexico,2020,female,0,0,1,1
+2051,San Marino,2020,female,0,0,1,1
