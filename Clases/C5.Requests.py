@@ -11,8 +11,8 @@ response = requests.get("https://realpython.github.io/fake-jobs/")
 print(response.status_code)
 #print(response.content)
 
-#CODIGO 200: Todo esta bien
-#CODIGO 400: Errores de la paguina web. Por ejemplo l 404 Significa que una paguina no existe.
+#CODIGO 200: La paguina esta bien.
+#CODIGO 400: Errores de la paguina. Por ejemplo l 404 Significa que una paguina no existe.
 #COGIDO 500: Errores del servidor.
 
 #Parser = Dscomponer en pedacitos las etiquetas de la paguina.
