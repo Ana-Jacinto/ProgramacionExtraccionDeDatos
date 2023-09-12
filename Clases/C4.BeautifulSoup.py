@@ -32,7 +32,7 @@ yearlist = yearGroups[0].find_elements(By.TAG_NAME, 'option')
 
 #CREAR DICCIONARIO
 datos = {
-    "country":[],
+    "country": [],
     "year": [],
     "gender": [],
     "gold": [],
