@@ -26,7 +26,7 @@ data["minmax_salario"] = (data.salario - min_salario) / (max_salario - min_salar
 
 min_edad = data.edad.min()
 max_edad = data.edad.max()
-data["minmax_edad"] = (data.edad - min_edad) / (max_edad - min_salario)
+data["minmax_edad"] = (data.edad - min_edad) / (max_edad - min_edad)
 
 
 #ESCALADO SIMPLE: X = (Xi) / max
